@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d1f333183d3b884",
+        "id": "efe6feb5b4642264",
         "type": "tabs",
         "children": [
           {
-            "id": "be8ccbe90a55e558",
+            "id": "83114400b1da8d34",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be8ccbe90a55e558",
+  "active": "83114400b1da8d34",
   "lastOpenFiles": [
     "Untitled.md",
     "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Baraonda.md",
