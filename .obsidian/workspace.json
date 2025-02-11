@@ -11,32 +11,13 @@
             "id": "4233eaae5d72ebc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Baraonda - Porto delle Ombre.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Baraonda - Porto delle Ombre"
-            }
-          },
-          {
-            "id": "cec4dbe2006328ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Negozi e Taverne/Negozi di Baraonda.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Negozi di Baraonda"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,53 +177,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cec4dbe2006328ed",
+  "active": "4897cf8ac19c1851",
   "lastOpenFiles": [
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Negozi e Taverne/Taverna della Sirena Infangata.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Baraonda - Piazza del Mercato Nero.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Negozi e Taverne/Negozi di Baraonda.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Baraonda - Porto delle Ombre.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Baraonda.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Negozi e Taverne",
-    "alba-rossa/NPC/Alleati/Jarl Huckletooth.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Baraonda - Navi Pendenti.md",
-    "alba-rossa/Quest/01.Spiaggia dei Dannati.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Baraonda - Grotte Sanguigne.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Baraonda - Quartiere dei Vizi.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Baraonda - Fortezza di Dente Nero.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Baraonda - La Rovina dei Relitti.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Insediamenti/Forte Ferro.md",
-    "Untitled.md",
-    "alba-rossa/Quest/09. Fuga, Tempesta e Nave Maledetta.md",
-    "alba-rossa/PG/Shar.md",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
+    "Mondo/Isole dell'Alba Rossa/Images/Porto del Tuono(1).jpg",
+    "Mondo/Isole dell'Alba Rossa/Images/Le Isole dell'Alba Rossa.jpg",
+    "Mondo/Isole dell'Alba Rossa/Images",
+    "Quest/09. Fuga, Tempesta e Nave Maledetta.md",
+    "Quest/08b. Pesci e altri mostri.md",
+    "Quest/08. Sotto la città.md",
+    "Quest/07. Sotterranei di Porto del Tuono.md",
+    "Quest/04. I pozzi contaminati.md",
+    "Quest/03b. Arrivo a Porto del Tuono.md",
+    "Quest/03a. Viaggio livello 2.md",
+    "Quest/02b.Il Dungeon del Tesoro di Besmara.md",
+    "Quest/02a.Incontro con Besmara.md",
+    "Quest/01.Spiaggia dei Dannati.md",
+    "Quest",
+    "PG/Yaren.md",
+    "PG/Shar.md",
+    "PG/Puggo-Yuka.md",
+    "PG/Pente.md",
+    "PG/Nemo.md",
+    "PG/Muffa.md",
+    "PG/Levi.md",
+    "PG/Eve.md",
+    "PG",
+    "NPC/Nemici/Triton.md",
+    "NPC/Nemici/Sullivan Usargu.md",
+    "NPC/Nemici/Padre Topher.md",
+    "NPC/Nemici/Commodoro Thane Ravenscroft.md",
+    "NPC/Ciurma/Pio Perculo.md",
+    "NPC/Ciurma/Kebob.md",
+    "NPC/Ciurma/Gyoffard.md",
+    "NPC/Nemici",
+    "NPC/Ciurma",
+    "NPC/Alleati",
+    "NPC",
+    "Mondo/Isole dell'Alba Rossa/Insediamenti/Negozi e Taverne",
+    "Mondo/Isole dell'Alba Rossa/Isole",
+    "Mondo/Isole dell'Alba Rossa/Insediamenti",
+    "Items/Images/Spada della Furia.jpg",
     "alba-rossa/Mondo/Isole dell'Alba Rossa/Images/Porto del Tuono(1).jpg",
     "alba-rossa/Mondo/Isole dell'Alba Rossa/Images/Le Isole dell'Alba Rossa.jpg",
-    "Welcome.md",
     "alba-rossa/Quest/Images/Pasted image 20250121002711.png",
     "alba-rossa/Quest/Images/Pasted image 20250120235254.png",
     "alba-rossa/Quest/Images/Pasted image 20250116190718.png",
     "alba-rossa/Quest/Images/Pasted image 20250116190654.png",
     "alba-rossa/Quest/Images/Pasted image 20250116190513.png",
-    "alba-rossa/Quest/Images/Strade.jpg",
-    "alba-rossa/Quest/Images",
-    "alba-rossa/Mondo/Isole dell'Alba Rossa/Images",
-    "alba-rossa/Quest/08b. Pesci e altri mostri.md",
-    "alba-rossa/Quest/08. Sotto la città.md",
-    "alba-rossa/Quest/07. Sotterranei di Porto del Tuono.md",
-    "alba-rossa/Quest/04. I pozzi contaminati.md",
-    "alba-rossa/Quest/03b. Arrivo a Porto del Tuono.md",
-    "alba-rossa/Quest/03a. Viaggio livello 2.md",
-    "alba-rossa/Quest/02b.Il Dungeon del Tesoro di Besmara.md",
-    "alba-rossa/Quest/02a.Incontro con Besmara.md",
-    "alba-rossa/Quest",
-    "alba-rossa/PG/Images/Yuka Maledetta.jpg",
-    "alba-rossa/PG/Images/Yuka con Puggo.jpg",
-    "alba-rossa/PG/Images",
-    "alba-rossa/PG",
-    "alba-rossa/NPC/Images/Pawn.Bozark.com - Custom.pdf",
-    "alba-rossa/NPC/Nemici",
-    "alba-rossa/NPC/Images",
-    "alba-rossa/NPC/Ciurma"
+    "alba-rossa/Quest/Images/Strade.jpg"
   ]
 }
