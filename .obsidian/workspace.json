@@ -11,10 +11,14 @@
             "id": "4233eaae5d72ebc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Entità/Divinità/Zon-Kuthon.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Zon-Kuthon"
             }
           }
         ]
@@ -178,10 +182,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4897cf8ac19c1851",
+  "active": "4233eaae5d72ebc7",
   "lastOpenFiles": [
-    "Quest/10. Viaggio verso la Baraonda.md",
-    "NPC/Nemici/Aldrin.md",
+    "Entità/Divinità/Urgathoa.md",
+    "Entità/Divinità/Torag.md",
+    "Entità/Divinità/Shelyn.md",
+    "Entità/Divinità/Sarenrae.md",
+    "Entità/Divinità/Rovagug.md",
+    "Entità/Divinità/Pharasma.md",
+    "Entità/Divinità/Norgorber.md",
+    "Entità/Divinità/Nethys.md",
+    "Entità/Divinità/Lamashtu.md",
+    "Entità/Divinità/Irori.md",
+    "Entità/Divinità/Iomedae.md",
+    "Entità/Divinità/Gozreh.md",
+    "Entità/Divinità/Gorum.md",
+    "Entità/Divinità/Erastil.md",
+    "Entità/Divinità/Desna.md",
+    "Entità/Divinità/Cayden Cailean.md",
+    "Entità/Divinità/Calistria.md",
+    "Entità/Divinità/Asmodeus.md",
+    "Entità/Divinità/Zon-Kuthon.md",
+    "Entità/Dvaros.md",
+    "Entità/Divinità/Abadar.md",
+    "NPC/Alleati/Yurami.md",
+    "Entità/Divinità",
+    "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
+    "Mondo/Kah'Tha'Nha.md",
+    "Mondo/Isole dell'Alba Rossa/Isole/Aether.md",
+    "Items/Spada della Furia.md",
     "Quest/Images/Strade.jpg",
     "Quest/Images/Pasted image 20250121002711.png",
     "Quest/Images/Pasted image 20250120235254.png",
@@ -197,34 +226,9 @@
     "NPC/Images/Pawn.Bozark.com - Custom.pdf",
     "NPC/Images",
     "Mondo/Isole dell'Alba Rossa/Images",
-    "Quest/09. Fuga, Tempesta e Nave Maledetta.md",
-    "Quest/08b. Pesci e altri mostri.md",
-    "Quest/08. Sotto la città.md",
-    "Quest/07. Sotterranei di Porto del Tuono.md",
-    "Quest/04. I pozzi contaminati.md",
-    "Quest/03b. Arrivo a Porto del Tuono.md",
-    "Quest/03a. Viaggio livello 2.md",
-    "Quest/02b.Il Dungeon del Tesoro di Besmara.md",
-    "Quest/02a.Incontro con Besmara.md",
-    "Quest/01.Spiaggia dei Dannati.md",
     "Quest",
-    "PG/Yaren.md",
-    "PG/Shar.md",
-    "PG/Puggo-Yuka.md",
-    "PG/Pente.md",
-    "PG/Nemo.md",
-    "PG/Muffa.md",
-    "PG/Levi.md",
-    "PG/Eve.md",
     "PG",
-    "NPC/Nemici/Triton.md",
-    "NPC/Nemici/Sullivan Usargu.md",
-    "NPC/Nemici/Padre Topher.md",
-    "NPC/Nemici/Commodoro Thane Ravenscroft.md",
-    "NPC/Ciurma/Pio Perculo.md",
-    "NPC/Ciurma/Kebob.md",
     "NPC/Nemici",
-    "NPC/Ciurma",
-    "NPC/Alleati"
+    "NPC/Ciurma"
   ]
 }
