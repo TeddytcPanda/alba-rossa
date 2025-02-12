@@ -1,4 +1,4 @@
-#luogo/città/taverna [[Baraonda - Porto delle Ombre]][[Baraonda]][[Cala della Lama]]
+#luogo/città/taverna [[Porto delle Ombre]][[Baraonda]][[Cala della Lama]]
 **Aspetto Esterno**:  
 - Una vecchia nave mercantile incastrata tra due scogli, trasformata in taverna. L’insegna è una sirena di legno ricoperta di fango e conchiglie.  
 - Sul ponte, tavoli e sedie tra le corde e le reti. Alcuni marinai dormono tra le bottiglie vuote.  

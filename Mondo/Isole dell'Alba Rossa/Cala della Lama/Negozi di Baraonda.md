@@ -1,6 +1,6 @@
 #luogo/città/negozi [[Cala della Lama]][[Baraonda]]
 
-# 1.  Negozi di [[Baraonda - Porto delle Ombre|Porto delle Ombre]]
+# 1.  Negozi di [[Porto delle Ombre|Porto delle Ombre]]
 Ecco una lista di **negozi semplici** per **Porto delle Ombre**, con nomi italiani e merce in vendita, ideali per un porto oscuro e misterioso:
 
 ---

@@ -3,7 +3,7 @@ Città principale di [[Cala della Lama]]
 
 ### **Zone della Città di Baraonda**
 
-#### **1. Il [[Baraonda - Porto delle Ombre|Porto delle Ombre]]**
+#### **1. Il [[Porto delle Ombre|Porto delle Ombre]]**
 - **Descrizione**: Il cuore pulsante della città, dove le navi pirata attraccano e le merci illegali vengono scaricate. Le navi pendenti dal soffitto della caverna sono visibili da qui, creando un'atmosfera surreale.
 - **Elementi Chiave**:
   - **Moli Fatiscenti**: Pontili di legno consumato dal mare, dove le navi scaricano merci rubate.
@@ -12,7 +12,7 @@ Città principale di [[Cala della Lama]]
   - **La Taverna della Sirena Infangata**: Situata su una delle navi incastrate nelle scogliere, con vista sul porto.
 ---
 
-#### **2. Il [[Baraonda - Quartiere dei Vizi|Quartiere dei Vizi]]**
+#### **2. Il [[Quartiere dei Vizi|Quartiere dei Vizi]]**
 - **Descrizione**: La zona più vivace e pericolosa della città, dedicata al divertimento e ai piaceri illeciti. Qui si trovano bische, bordelli e taverne.
 - **Elementi Chiave**:
   - **Bische**: Sale da gioco come *La Ruota della Fortuna* e *Il Tavolo del Diavolo*, dove si scommettono monete d'oro e oggetti rubati.
@@ -22,7 +22,7 @@ Città principale di [[Cala della Lama]]
 
 ---
 
-#### **3. [[Baraonda - La Rovina dei Relitti|La Rovina dei Relitti]]**
+#### **3. [[La Rovina dei Relitti|La Rovina dei Relitti]]**
 - **Descrizione**: Una zona della caverna dove le navi danneggiate o affondate sono state trascinate e abbandonate. Qui si trovano rifugi improvvisati, laboratori di riparazione e nascondigli segreti.
 - **Elementi Chiave**:
   - **Relitti Abitati**: Navi trasformate in case o laboratori, spesso collegate da passerelle di fortuna.
@@ -31,7 +31,7 @@ Città principale di [[Cala della Lama]]
 
 ---
 
-#### **4. La [[Baraonda - Fortezza di Dente Nero|Fortezza di Dente Nero]]**
+#### **4. La [[Fortezza di Dente Nero|Fortezza di Dente Nero]]**
 - **Descrizione**: Una roccaforte costruita su una piattaforma rocciosa all'interno della caverna, che domina l'intera città. È il centro del potere pirata.
 - **Elementi Chiave**:
   - **Mura Imponenti**: Costruite con legno e metallo recuperati da navi naufragate.
@@ -41,7 +41,7 @@ Città principale di [[Cala della Lama]]
 
 ---
 
-#### **5. Le [[Baraonda - Grotte Sanguigne|Grotte Sanguigne]]**
+#### **5. Le [[Grotte Sanguigne|Grotte Sanguigne]]**
 - **Descrizione**: Una rete di grotte e tunnel che si estendono sotto la città, usate per attività illegali e rituali oscuri.
 - **Elementi Chiave**:
   - **Depositi di Contrabbando**: Nascondigli pieni di merci rubate e tesori.
@@ -50,7 +50,7 @@ Città principale di [[Cala della Lama]]
 
 ---
 
-#### **6. La [[Baraonda - Piazza del Mercato Nero|Piazza del Mercato Nero]]**
+#### **6. La [[Piazza del Mercato Nero|Piazza del Mercato Nero]]**
 - **Descrizione**: Un'area caotica e affollata, dove si vendono merci illegali e si incontrano contrabbandieri.
 - **Elementi Chiave**:
   - **Bancarelle Improvvisate**: Piene di oggetti esotici, armi e pozioni.
@@ -59,7 +59,7 @@ Città principale di [[Cala della Lama]]
 
 ---
 
-#### **7. Le [[Baraonda - Navi Pendenti|Navi Pendenti]]**
+#### **7. Le [[Navi Pendenti|Navi Pendenti]]**
 - **Descrizione**: La zona più iconica della città, dove navi gigantesche pendono dal soffitto della caverna, collegate alla città da scale e passerelle.
 - **Elementi Chiave**:
   - **Residenze Esclusive**: Alcune navi sono state trasformate in abitazioni per i pirati più ricchi.
