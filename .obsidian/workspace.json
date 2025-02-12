@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -152,8 +153,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -179,6 +180,8 @@
   },
   "active": "4897cf8ac19c1851",
   "lastOpenFiles": [
+    "Quest/10. Viaggio verso la Baraonda.md",
+    "NPC/Nemici/Aldrin.md",
     "Quest/Images/Strade.jpg",
     "Quest/Images/Pasted image 20250121002711.png",
     "Quest/Images/Pasted image 20250120235254.png",
@@ -190,7 +193,6 @@
     "PG/Images/Yaren.jpg",
     "PG/Images/Yuka Maledetta.jpg",
     "PG/Images/Shar.jpg",
-    "PG/Images/Yuka con Puggo.jpg",
     "PG/Images",
     "NPC/Images/Pawn.Bozark.com - Custom.pdf",
     "NPC/Images",
@@ -221,7 +223,6 @@
     "NPC/Nemici/Commodoro Thane Ravenscroft.md",
     "NPC/Ciurma/Pio Perculo.md",
     "NPC/Ciurma/Kebob.md",
-    "NPC/Ciurma/Gyoffard.md",
     "NPC/Nemici",
     "NPC/Ciurma",
     "NPC/Alleati"

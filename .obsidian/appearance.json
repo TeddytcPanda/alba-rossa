@@ -2,5 +2,6 @@
   "cssTheme": "ITS Theme",
   "accentColor": "",
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "showRibbon": true
 }
