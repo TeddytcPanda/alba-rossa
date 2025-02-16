@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
+                "file": "NPC/Alleati/Sarumi Kintsugi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isole dell'Alba Rossa"
+              "title": "Sarumi Kintsugi"
+            }
+          },
+          {
+            "id": "7bf89b739267c9cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quest/12. Il prezzo della schiavitù.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. Il prezzo della schiavitù"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +197,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "214e4d39c0649edd",
+  "active": "4897cf8ac19c1851",
   "lastOpenFiles": [
-    "Mondo/Kah'Tha'Nha.md",
+    "NPC/z_Images/Pasted image 20250215105553.png",
     "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
+    "NPC/Alleati/Sarumi Kintsugi.md",
+    "NPC/Alleati/maestra di muffa.md",
+    "NPC/Alleati/Lara Goodwin.md",
+    "NPC/Alleati/Lady Mira Goodwin.md",
+    "NPC/Alleati/Jarl Huckletooth.md",
+    "NPC/Alleati/Isolde Blackwave.md",
+    "NPC/Alleati/Fidelius Grim.md",
+    "Quest/12. Il prezzo della schiavitù.md",
+    "Quest/11. Baraonda a Baraonda.md",
+    "NPC/Ciurma/Kebob.md",
+    "Quest/10. Viaggio verso la Baraonda.md",
+    "Items/Spada della Furia.md",
+    "Mondo/Kah'Tha'Nha.md",
     "Mondo/Isole dell'Alba Rossa/Scogliere di Eos",
     "Mondo/Isole dell'Alba Rossa/Rocca del Kraken",
     "Mondo/Isole dell'Alba Rossa/Rifugio del Vento",
@@ -207,28 +235,14 @@
     "Mondo/Isole dell'Alba Rossa/Cala della Lama/Negozi di Baraonda.md",
     "Mondo/Isole dell'Alba Rossa/Cala della Lama/Navi Pendenti.md",
     "Mondo/Isole dell'Alba Rossa/Cala della Lama/La Rovina dei Relitti.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Grotte Sanguigne.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Fortezza di Dente Nero.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Quartiere dei Vizi.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Porto delle Ombre.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Piazza del Mercato Nero.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Baraonda.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Cala della Lama.md",
-    "Entità/Divinità/Zon-Kuthon.md",
-    "Entità/Divinità/Urgathoa.md",
-    "Entità/Divinità/Torag.md",
-    "Entità/Divinità/Shelyn.md",
-    "Entità/Divinità/Sarenrae.md",
-    "Entità/Divinità/Rovagug.md",
-    "Quest/Images/Strade.jpg",
-    "Quest/Images/Pasted image 20250121002711.png",
-    "Quest/Images/Pasted image 20250120235254.png",
-    "Quest/Images/Pasted image 20250116190718.png",
-    "Quest/Images/Pasted image 20250116190513.png",
-    "Quest/Images/Pasted image 20250116190654.png",
-    "PG/Images/Eve.jpg",
-    "PG/Images/Yaren.jpg",
-    "PG/Images/Yuka Maledetta.jpg",
-    "PG/Images/Shar.jpg"
+    "Quest/z_Images/Strade.jpg",
+    "Quest/z_Images/Pasted image 20250121002711.png",
+    "Quest/z_Images/Pasted image 20250120235254.png",
+    "Quest/z_Images/Pasted image 20250116190718.png",
+    "Quest/z_Images/Pasted image 20250116190513.png",
+    "Quest/z_Images/Pasted image 20250116190654.png",
+    "PG/z_Images/Eve.jpg",
+    "PG/z_Images/Yaren.jpg",
+    "PG/z_Images/Yuka Maledetta.jpg"
   ]
 }
