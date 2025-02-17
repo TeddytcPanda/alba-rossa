@@ -11,10 +11,14 @@
             "id": "99dcbd5e7e9a714f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Neutrali/Madame Zara.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Madame Zara"
             }
           }
         ]
@@ -180,6 +184,8 @@
   },
   "active": "99dcbd5e7e9a714f",
   "lastOpenFiles": [
+    "NPC/Neutral/Madame Zara.md",
+    "NPC/Neutral",
     "NPC/Neutrali/Madame Zara.md",
     "NPC/Neutrali/Fiorillia.md",
     "PG/Nemo.md",
@@ -223,7 +229,6 @@
     "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono",
     "Mondo/Isole dell'Alba Rossa/Aqualungra/Lago Duria.md",
     "Mondo/Isole dell'Alba Rossa/Lacrime di Corallo",
-    "Mondo/Isole dell'Alba Rossa/Isola di Baia di Zefiro",
-    "Mondo/Isole dell'Alba Rossa/Isola del Maelstrom"
+    "Mondo/Isole dell'Alba Rossa/Isola di Baia di Zefiro"
   ]
 }
