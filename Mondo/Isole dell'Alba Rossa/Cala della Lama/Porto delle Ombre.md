@@ -32,7 +32,7 @@
 
 ### **3. Mercato Galleggiante**  
 **Esempi di Mercanti e Negozi**:  
-1. **Madame Zara, la Strega del Mare**  
+1. **[[Madame Zara]], la Strega del Mare**  
    - Vende *pozioni di sirenide* (fanno respirare sott'acqua) e *sabbie ipnotiche*.  
    - Ha un serpente marino addomesticato che le fa da guardia del corpo.  
 
