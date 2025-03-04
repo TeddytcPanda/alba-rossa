@@ -14,31 +14,8 @@
 - **Eventi Chiave**: è stato mandato dal padre [[Sir Amanico Kakapoko]] a ritrovare il leggendario [[Martello di Azlant]], appartenuto a [[Bruce Ketta]]. Durante il suo viaggio ha incontrato [[Gino|Gino il Pinguino Paladino]], che è divenuto il suo primo e unico amico fino a quel momento. Ha quindi perso di vista [[Gino]] quando è stato arrestato per rissa.
 - **Obiettivi**: Sta cercando di ritrovare [[Gino]] e il [[Martello di Azlant]]
 
-## Combattimento
-- **Ruolo**: Tank e Damage Dealer
-- **Tattiche più utilizzate**: Vado in Ira
-- **Abilità/Spell più utilizzate**: Ira
-
-## Equipaggiamento
-- **Armi**: Spadone/Ascia Bipenne
-- **Armature**: 
-- **Consumabili**: Pozione di Guarigione
-- **Oggetti Magici**: 
-- **Oggetti Magici Attuned**: 
-
 ## Relazioni
-- PG:
-	- [[Shar]]:
-	- [[Muffa]]:
-	- [[Puggo-Yuka]]:
-	- [[Yaren]]:
-	- [[Eve]]:
-	- [[Axel]]:
-- **Alleati**: 
-	- [[Kebob]]: è stato rapito da Pente che gli ha dato questo nome. Lo considera uno schiavo. 
-- **Nemici**: 
-- **Contatti**:
-	- [[Gino]]: hanno viaggiato insieme per settimane, proteggendosi e aiutandosi a vicenda. Pente lo considera il suo primo e unico amico.
+- [[Gino]]: hanno viaggiato insieme per settimane, proteggendosi e aiutandosi a vicenda. Pente lo considera il suo primo e unico amico.
 
 ## Note
 - **Note Aggiuntive**: 

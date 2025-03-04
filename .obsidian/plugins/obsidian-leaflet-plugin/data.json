@@ -1,5 +1,187 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1740388014513,
+      "markers": [
+        {
+          "id": "ID_d91b5a5bbbd9",
+          "type": "default",
+          "loc": [
+            632.09375,
+            1306.25
+          ],
+          "link": "Cala della Lama",
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6be909697b6b",
+          "type": "default",
+          "loc": [
+            924.09375,
+            1107.25
+          ],
+          "link": "Porto del Tuono",
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab287adaaa3b",
+          "type": "default",
+          "loc": [
+            695.09375,
+            1074.25
+          ],
+          "link": "Forte Ferro",
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab280908885b",
+          "type": "default",
+          "loc": [
+            1366.09375,
+            347.25
+          ],
+          "link": "Rifugio del Vento",
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9be8185aeb78",
+          "type": "default",
+          "loc": [
+            1229.09375,
+            1011.25
+          ],
+          "link": "Scogliere di Eos",
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb3b4809f858",
+          "type": "default",
+          "loc": [
+            1405.09375,
+            1696.25
+          ],
+          "link": "Aether",
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9d978caf8eb",
+          "type": "default",
+          "loc": [
+            806.09375,
+            1708.25
+          ],
+          "link": "Isola del Maelstrom",
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_684a7b2a792a",
+          "type": "default",
+          "loc": [
+            336.09375,
+            1639.25
+          ],
+          "link": "Fortezza di Corno Celeste",
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9ab958983a98",
+          "type": "default",
+          "loc": [
+            88.09375,
+            841.25
+          ],
+          "link": "Lacrime di Corallo",
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b79594ada4b",
+          "type": "default",
+          "loc": [
+            472.09375,
+            911.25
+          ],
+          "link": "Corallia",
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
