@@ -69,9 +69,9 @@ A differenza delle orde di pirati o assassini degli altri membri del Triumvirato
     - Hobgoblin che si diletta in miscele infiammabili, velenose e corrosive
     - Porta con sé una serie di pozioni e bombe pronte all’uso
     - Ha una maschera di cuoio che lo protegge dai suoi stessi esperimenti
-    - Sostiene che “ogni problema può essere risolto con la giusta quantità di fuoco”
-6. [[Gorak]]
-7. [[Tiberio Onda Salata]]
+\    - Sostiene che “ogni problema può essere risolto con la giusta quantità di fuoco”
+1. [[Gorak]]
+2. [[Tiberio Onda Salata]]
 
 ---
 
