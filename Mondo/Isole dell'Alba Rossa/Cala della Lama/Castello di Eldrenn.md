@@ -294,6 +294,7 @@ Un delicato medaglione d'argento con un ritratto sbiadito – forse un indizio s
 Sostituire il diavolo con una **fey potente** (Arcifey) mantiene la stessa intensità narrativa, ma dona un sapore diverso: inganni, fascino, promesse vincolanti e un tocco di meraviglia inquietante. La frase “_il sangue non mente_” resta al centro della rivelazione, collegando il potere del talismano (e la discendenza vampirica) alle macchinazioni future di Vecna.
 
 I PG escono arricchiti di informazioni—e forse di un nuovo patto che condizionerà le loro avventure a venire—prima di imbattersi nel drago nero all’esterno del castello. In questo modo, la tua campagna potrà proseguire con un intreccio di forze oscure, minacce epiche e alleanze con entità sovrannaturali, tutto nel segno dell’eleganza (e pericolo) di un demipiano fey in stile vittoriano. Buon divertimento!
+
 ---
 
 ## Opportunità di Roleplaying
@@ -376,3 +377,6 @@ I PG escono arricchiti di informazioni—e forse di un nuovo patto che condizion
 - Una volta sconfitto il drago (o se riesce a fuggire), i PG possono decidere il destino del talismano e del castello.
 
 Così avrai un finale dinamico e inaspettato, con un combattimento spettacolare che rispecchia l’iconico scontro tra eroi e drago, lasciando aperti molti spunti per avventure future! Buon divertimento e che i tuoi giocatori vivano un’avventura indimenticabile!
+
+
+Il nano scompare dopo aver finito il suo compito: "Letteralmente ghosting" (Fede)
