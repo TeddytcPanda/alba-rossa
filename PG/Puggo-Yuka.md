@@ -3,7 +3,6 @@
 ## Informazioni di Base
 - **Classe**: Monaco - Guerriero degli Elementi
 - **Razza**: Dragonide (trasformato in carlino)
-- **Livello**: 3
 - **Background**: Soldato
 - **Genere**: M(F)
 

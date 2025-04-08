@@ -6,7 +6,7 @@
       {
         "id": "e907c9e026e2224d",
         "type": "tabs",
-        "dimension": 61.702127659574465,
+        "dimension": 44.43738080101716,
         "children": [
           {
             "id": "973bef1aea36422c",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mondo/Isole dell'Alba Rossa/Cala della Lama/Castello di Eldrenn.md",
+                "file": "PG/Levi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Castello di Eldrenn"
+              "title": "Levi"
             }
           },
           {
@@ -55,7 +55,7 @@
       {
         "id": "f9ed523899de5807",
         "type": "tabs",
-        "dimension": 38.297872340425535,
+        "dimension": 55.56261919898283,
         "children": [
           {
             "id": "6a6e62396a2dba15",
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "60d0c2537f6a3c4d",
@@ -235,9 +234,14 @@
   },
   "active": "973bef1aea36422c",
   "lastOpenFiles": [
+    "Mondo/Isole dell'Alba Rossa/L'Isola tartaruga.md",
+    "PG/Puggo-Yuka.md",
+    "a. ONESHOT MESAGNE - NERO.md",
+    "Untitled.md",
+    "b. ONESHOT MESAGNE - La casa degli strani oggetti.md",
+    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Castello di Eldrenn.md",
     "Roba.md",
     "Pasted image 20250318222340.png",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Castello di Eldrenn.md",
     "NPC/Alleati/Karlach.md",
     "Mondo/Isole dell'Alba Rossa/Rifugio del Vento/Rifugio del Vento.md",
     "Mondo/Isole dell'Alba Rossa/Cala della Lama/La Rovina dei Relitti.md",
@@ -254,13 +258,9 @@
     "PG/Pente.md",
     "Mondo/Isole dell'Alba Rossa/Cala della Lama/Fortezza di Dente Nero.md",
     "Ander Tatus.md",
-    "a. ONESHOT MESAGNE - NERO.md",
     "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
     "Mondo/Isole dell'Alba Rossa/Lacrime di Corallo/Lacrime di Cristallo.md",
     "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Porto del Tuono.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Taverna della Sirena Infangata.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Quartiere dei Vizi.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Porto delle Ombre.md",
     "Untitled/Pasted image 20250221091841.png",
     "Untitled",
     "Untitled/Pasted image 20250221091905.png",

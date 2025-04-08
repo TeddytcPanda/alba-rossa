@@ -99,12 +99,10 @@ Recenti voci parlano di una cellula locale del Culto del Drago, attiva nella zon
 ### Incontro con le Creature Non Morti
 
 **Descrizione da Narrare**:  
-"Improvvisamente, il silenzio viene infranto da un fruscio sinistro. Dalle ombre emergono le ossa animate: due scheletri, un cavallo scheletrico e, sorprendentemente, un gigante scheletrico, che si muove goffamente ma inesorabilmente verso di voi. Le ossa scricchiolano mentre si riorganizzano in una danza macabra, pronti a difendere i segreti del luogo."
+"Improvvisamente, il silenzio viene infranto da un fruscio sinistro. Dalle ombre emergono delle ossa animate: quella che sembra essere un'antica pattuglia si staglia davanti a voi. Notate tre guerrieri muoversi seguendo quello che un tempo era un comandante che indossa dei simboli che sono ormai andati perduti nelle pieghe del tempo. Non appena vi scorgono il comandante sembra lanciare un urlo e notate un fuoco farsi strada nelle vuote orbite del suo scheletro."
 
-**Elementi Chiave**:
-
-- Il combattimento è bilanciato per un party di livello 2 e aggiunge un elemento di pericolo immediato.
-- Dopo lo scontro, i PG possono trovare indizi incisi sui resti, che parlano di antiche difese anti-drago.
+- Dopo lo scontro, i PG possono trovare indizi incisi sui resti, che parlano di antiche difese anti-drago. Inoltre possono riconoscere la presenza di una recente magia necromantica.
+- Addosso allo scheletro infiammato trovano un Giavellotto del Fulmine.
 
 ---
 
@@ -143,27 +141,23 @@ Recenti voci parlano di una cellula locale del Culto del Drago, attiva nella zon
 ### Scoperta dei Manufatti
 
 **Descrizione da Narrare**:  
-"Oltre la porta, vi apre una vasta sala illuminata debolmente da un cristallo centrale che emana un bagliore arcano. Al centro della stanza, una serie di specchi antichi è disposto su strutture di pietra. Questi specchi possono essere ruotati e orientati: se indirizzati correttamente verso il drago, riescono a convogliare l’energia del cristallo in un raggio devastante."
+"Oltre la porta, vi apre una vasta sala illuminata debolmente da un cristallo centrale che emana un bagliore arcano. Al centro della stanza, una serie di specchi antichi è disposto su strutture di pietra. Qui un uomo con una maschera nera sembra lottare per rimanere in groppa a un drago nero mentre gli grida degli ordini che il drago sembra non voler seguire ma esserne costretto in qualche modo. Quattro scheletri sembrano operare quattro dei cinque specchi e, al comando dell'uomo mascherato uno di loro punta lo specchio verso il drago, bruciando le sue squame, per poi diventare opaco."
 
 **Funzionamento dell’Arma**:
 
-- Quando i PG posizionano i specchi in modo da puntare verso il drago, il cristallo emette un raggio d’energia arcana che infligge 5d6 danni da forza al drago.
+- Quando i PG posizionano i specchi in modo da puntare verso il drago, il cristallo emette un raggio d’energia arcana che infligge 6d6 danni da forza al drago.
 - Per ricaricare il cristallo, i PG devono reindirizzare i specchi verso il cristallo centrale stesso.
-- Se il drago subisce danni sufficienti da raggiungere metà dei suoi punti vita, la sua resistenza cede e si ritira, lasciando dietro di sé minacce e promesse di vendetta.
+- Se il drago subisce danni sufficienti da raggiungere metà dei suoi punti vita, la sua resistenza cede e si ritira, portando con se il cavaliere.
+- Il drago può fare un attacco a turno, ma i suoi colpi con un tiro su atletica con CD 12 possono sbalzare via gli avventurieri di 10 ft.
 
 ---
+**Descrizione da Narrare:**
 
-## 7. Conclusione e Agganci Futuri
+"Un urlo furioso squarcia l’aria mentre il drago nero si dimena, scosso dall’energia che lo brucia attraverso le squame. Il cavaliere mascherato sulla sua groppa stringe le redini, cercando disperatamente di mantenere il controllo, ma il dolore della creatura è troppo grande. Con un battito d’ali poderoso, il drago si solleva, abbattendo pilastri e sollevando un’onda di polvere e detriti.
 
-### Esito dell’Incontro
+Gli specchi tremano sotto la forza del suo ruggito, e il cavaliere grida con rabbia: 'No! Obbedisci, dannazione!' Ma il drago ha deciso. Con un ultimo sguardo carico di odio, le sue ali si spalancano e in un battito poderoso si lancia verso l’uscita, sfondando parte del soffitto con un boato assordante.
 
-**Descrizione da Narrare**:  
-"Nel momento culminante, il drago nero sfida il vostro coraggio, tentando un attacco disperato. Grazie alla prontezza e all’ingegno del gruppo, le armi d’assedio attivate si rivelano un’arma letale. Con un fragoroso boato, il drago subisce danni devastanti e, col suo orgoglio ferito, si ritira urlando promesse di vendetta."
-
-**Elementi Chiave**:
-
-- L’obiettivo non è uccidere il drago (troppo potente per un party di livello 2), ma ferirlo abbastanza da costringerlo a fuggire.
-- Se il gruppo fallisce a rigore, sarà costretto a utilizzare cunicoli secondari o sfruttare il caos per fuggire, lasciando aperta la possibilità di ulteriori scontri.
+Un lampo di luce illumina per un attimo la sala mentre la creatura scompare nella notte, lasciando dietro di sé solo il rumore del vento che si insinua tra le rovine e il suono lontano delle sue ali che svaniscono nell’oscurità della palude."
 
 ### Ricompense e Ganci Narrativi
 
@@ -172,7 +166,7 @@ Recenti voci parlano di una cellula locale del Culto del Drago, attiva nella zon
 
 **Elementi Chiave**:
 
-- L’archeologo ricompensa il gruppo con 750 monete d'oro e piccoli oggetti magici (un’arma +1 e 5 pozioni di guarigione).
+- L’archeologo ricompensa il gruppo con 750 monete d'oro e piccoli oggetti magici (5 pozioni di guarigione).
 - Le note recuperate offrono un forte gancio per futuri sviluppi legati al Culto del Drago e ad altre rovine anti-drago disseminate lungo la Costa della Spada.
 
 ---
