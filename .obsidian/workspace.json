@@ -4,115 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e907c9e026e2224d",
+        "id": "8f5a95b0da2bea66",
         "type": "tabs",
         "children": [
           {
-            "id": "8df8a975b72cc3d3",
+            "id": "f004ab3c0d4f6698",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quest/13. Pianifichiamo l'assalto.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "13. Pianifichiamo l'assalto"
-            }
-          },
-          {
-            "id": "b0b84e5c41662290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sinhat Mirastra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sinhat Mirastra"
-            }
-          },
-          {
-            "id": "cf2a12f81d869e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dorgar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dorgar"
-            }
-          },
-          {
-            "id": "ad8335927b8aa650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mondo/Isole dell'Alba Rossa/Cala della Lama/Baraonda.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Baraonda"
-            }
-          },
-          {
-            "id": "7a96576931af3708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mondo/Isole dell'Alba Rossa/Cala della Lama/La Rovina dei Relitti.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La Rovina dei Relitti"
+              "title": "New tab"
             }
           }
         ]
-      },
-      {
-        "id": "f5472c53f4672108",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ee74eabdb611eb42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isole dell'Alba Rossa"
-            }
-          },
-          {
-            "id": "5665fbb944dbd5e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PG/Levi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Levi"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 300.5
   },
   "right": {
     "id": "60d0c2537f6a3c4d",
@@ -273,32 +178,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8df8a975b72cc3d3",
+  "active": "4897cf8ac19c1851",
   "lastOpenFiles": [
-    "Sinhat Mirastra.md",
+    "Untitled/Pasted image 20250318222340.png",
+    "NPC/Alleati/Ygrak.md",
     "_a9d987a2-7af3-40c7-b1a4-0c1a9ab63f52.jpg",
+    "NPC/Alleati/Sinhat Mirastra.md",
+    "Velloss.md",
+    "Untitled/Pasted image 20250413224833.png",
     "Quest/13. Pianifichiamo l'assalto.md",
     "Mondo/Isole dell'Alba Rossa/Cala della Lama/La Rovina dei Relitti.md",
     "Mondo/Isole dell'Alba Rossa/Cala della Lama/Baraonda.md",
-    "Dorgar.md",
-    "Ygrak.md",
-    "Gustava.md",
-    "Velloss.md",
+    "NPC/Alleati/Dorgar.md",
+    "NPC/Alleati/Gustava.md",
     "PG/Eve.md",
     "PG/Levi.md",
     "NPC/Alleati/Karlach.md",
     "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
     "Mondo/Isole dell'Alba Rossa/Scogliere di Eos/Scogliere di Eos.md",
     "Mondo/Isole dell'Alba Rossa/Rifugio del Vento/Rifugio del Vento.md",
-    "Heliana's Guide to Monster Hunting (v2.02).pdf",
+    "Risorse utili/Heliana's Guide to Monster Hunting (v2.02).pdf",
     "Mondo/Isole dell'Alba Rossa/L'Isola tartaruga.md",
     "PG/Puggo-Yuka.md",
     "a. ONESHOT MESAGNE - NERO.md",
-    "Untitled.md",
+    "Untitled/Untitled 1.md",
     "b. ONESHOT MESAGNE - La casa degli strani oggetti.md",
     "Mondo/Isole dell'Alba Rossa/Cala della Lama/Castello di Eldrenn.md",
-    "Roba.md",
-    "Pasted image 20250318222340.png",
+    "Untitled/Roba.md",
     "NPC/Alleati/Yurami.md",
     "NPC/Alleati/Gorak.md",
     "NPC/Alleati/Isolde Blackwave.md",
@@ -311,7 +217,6 @@
     "Untitled/Pasted image 20250221095634.png",
     "Untitled/Pasted image 20250221095403.png",
     "Untitled/Pasted image 20250221095351.png",
-    "Untitled/Pasted image 20250221091921.png",
     "NPC/Neutral",
     "Risorse utili",
     "NPC/Neutrali",
