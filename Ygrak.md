@@ -1,0 +1,2 @@
+Goliath del freddo, capitana dei **[[Fratelli del Vento del Nord]]**. una ciurma di Goliath del gelo provenienti da [[Rifugio del Vento]]. Ha perso la sorella [[Levi|Yverlian]] durante un assalto a una nave da guerra dell'[[Impero di Lel'Kuzan]]
+Glaciale ma decisa e feroce
