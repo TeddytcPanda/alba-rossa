@@ -11,10 +11,14 @@
             "id": "f004ab3c0d4f6698",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Quest/L’Occhio del Leviatano.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "L’Occhio del Leviatano"
             }
           }
         ]
@@ -178,21 +182,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4897cf8ac19c1851",
+  "active": "f004ab3c0d4f6698",
   "lastOpenFiles": [
+    "Quest/13. Pianifichiamo l'assalto.md",
+    "Quest/L’Occhio del Leviatano.md",
+    "NPC/Alleati/Sinhat Mirastra.md",
+    "Mondo/Kah'Tha'Nha.md",
+    "NPC/Alleati/Capitan Rottame.md",
+    "Mondo/Isole dell'Alba Rossa/Cala della Lama/La Rovina dei Relitti.md",
+    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Baraonda.md",
+    "PG/Levi.md",
+    "PG/Nemo.md",
     "Untitled/Pasted image 20250318222340.png",
     "NPC/Alleati/Ygrak.md",
     "_a9d987a2-7af3-40c7-b1a4-0c1a9ab63f52.jpg",
-    "NPC/Alleati/Sinhat Mirastra.md",
     "Velloss.md",
     "Untitled/Pasted image 20250413224833.png",
-    "Quest/13. Pianifichiamo l'assalto.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/La Rovina dei Relitti.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Baraonda.md",
     "NPC/Alleati/Dorgar.md",
     "NPC/Alleati/Gustava.md",
     "PG/Eve.md",
-    "PG/Levi.md",
     "NPC/Alleati/Karlach.md",
     "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
     "Mondo/Isole dell'Alba Rossa/Scogliere di Eos/Scogliere di Eos.md",
@@ -206,9 +214,6 @@
     "Mondo/Isole dell'Alba Rossa/Cala della Lama/Castello di Eldrenn.md",
     "Untitled/Roba.md",
     "NPC/Alleati/Yurami.md",
-    "NPC/Alleati/Gorak.md",
-    "NPC/Alleati/Isolde Blackwave.md",
-    "NPC/Alleati/Ambra Ombroscura.md",
     "Untitled/Pasted image 20250221091841.png",
     "Untitled",
     "Untitled/Pasted image 20250221091905.png",

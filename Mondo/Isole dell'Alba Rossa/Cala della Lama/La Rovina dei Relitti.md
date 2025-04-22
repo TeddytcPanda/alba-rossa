@@ -35,10 +35,10 @@ _"La Rovina dei Relitti è un labirinto di navi spezzate e scafi marci, ammassat
 
 ### **Personaggi della Rovina dei Relitti**
 
-#### **1. Capitan Rottame**
+#### **1. [[Capitan Rottame]]**
 - **Descrizione**: Un ex-pirata che ha perso la sua nave e ora vive in un relitto trasformato in fortezza. È conosciuto come il "re dei relitti" e controlla gran parte della zona.
 - **Personalità**: Burbero ma giusto, Capitan Rottame è rispettato dai residenti della Rovina. È disposto ad aiutare chi lo rispetta, ma non tollera i ladri o i traditori.
-- **Missioni**: Potrebbe chiedere ai giocatori di recuperare un oggetto prezioso da un relitto pericoloso o di proteggere la Rovina da un'invasione di creature marine.
+- Utilizza pezzi di mostri per costruire armi, armature e oggetti magici
 
 #### **2. Marisole**
 - **Descrizione**: La giovane cameriera della **Sirena Infangata** si è rifugiata nella Rovina dei Relitti dopo essere scappata dal culto di Norgorber. È nascosta in un relitto abbandonato, cercando di rimanere inosservata.
