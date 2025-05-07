@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Sarenrae
 
 ## 1. Caratteristiche Generali
@@ -5,7 +9,7 @@
   Sarenrae è la divinità della luce, della compassione e della giustizia misericordiosa. È venerata da chi cerca guarigione, redenzione e illuminazione spirituale.
 
 - **Portatrice di misericordia e giustizia:**  
-  Conosciuta sia per il suo amore infinito che per la sua determinazione a distruggere il male irreparabile, Sarenrae offre redenzione a chi si pente, ma non esita a punire coloro che rifiutano il cambiamento.
+  Conosciuta sia per il suo amore infinito che per la sua determinazione a distruggere il male irreparabile, Sarenrae offre redenzione a chi si [[pente]], ma non esita a punire coloro che rifiutano il cambiamento.
 
 ## 2. Aspetto e Simbolismo
 - **Iconografia luminosa:**  

@@ -1,6 +1,6 @@
 **Nome completo**: Xanathar (vero nome sconosciuto)  
 **Razza**: Beholder  
-**Ruolo**: Membro del Triumvirato di Baraonda, signore delle informazioni e del terrore  
+**Ruolo**: Membro del Triumvirato di [[Baraonda]], signore delle informazioni e del terrore  
 **Personalità**: Paranoico, spietato, ossessionato dal controllo
 
 ---
@@ -26,7 +26,7 @@
 
 ### **Risorse e Influenza**
 
-- Controlla una rete capillare di informatori, spie e assassini sparsi in tutta Baraonda e nelle isole circostanti
+- Controlla una rete capillare di informatori, spie e assassini sparsi in tutta [[Baraonda]] e nelle isole circostanti
 - Possiede un’ampia collezione di artefatti magici e oggetti unici, spesso ottenuti con inganni e minacce
 - Ha una guardia personale di mostri aberranti e mercenari fanatici
 - Gestisce un giro di scommesse, estorsioni e informazioni, vendendo segreti al miglior offerente
@@ -41,8 +41,8 @@ I suoi seguaci non sono una ciurma nel senso tradizionale, ma un complesso siste
 
 ### **Rapporti con gli altri membri del Triumvirato**
 
-- **Ander Tatus**: Lo considera un utile strumento per il traffico di armi, ma non si fida di lui. Probabilmente ha già dossier segreti sulle sue debolezze.
-- **Karlach**: Non la considera una minaccia immediata, ma la sua morale "ingenua" lo infastidisce. Osserva i suoi movimenti, pronto a colpire se necessario.
+- **[[Ander Tatus]]**: Lo considera un utile strumento per il traffico di armi, ma non si fida di lui. Probabilmente ha già dossier segreti sulle sue debolezze.
+- **[[Karlach]]**: Non la considera una minaccia immediata, ma la sua morale "ingenua" lo infastidisce. Osserva i suoi movimenti, pronto a colpire se necessario.
 
 ---
 

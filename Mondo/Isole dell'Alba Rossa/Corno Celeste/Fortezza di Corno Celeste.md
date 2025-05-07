@@ -28,7 +28,7 @@
 
 - **Fortezza di Corno Celeste:** La cittadella è una costruzione imponente, con mura massicce, torri alte e un sistema di difesa che include magiche barriere protettive. È il quartier generale dell'**Ordine del Corno Celeste**, un ordine cavalleresco dedicato alla protezione dell’arcipelago e alla custodia dei segreti mistici dell’isola.
 - **Villaggio di Mistral:** Situato alla base del Monte Celestiale, **Mistral** è un villaggio prospero che ospita artigiani, soldati e nobili. Le case di pietra e legno sono costruite per resistere al clima rigido, e il villaggio è conosciuto per le sue fucine, dove vengono forgiate armi e armature di alta qualità.
-- **Santuario delle Vette:** Questo antico tempio dedicato a Iomedae, la dea della giustizia, è situato su una delle pendici della montagna. Il santuario è un luogo di pellegrinaggio e addestramento spirituale per i monaci guerrieri che cercano di rafforzare il corpo e lo spirito.
+- **Santuario delle Vette:** Questo antico tempio dedicato a [[Iomedae]], la dea della giustizia, è situato su una delle pendici della montagna. Il santuario è un luogo di pellegrinaggio e addestramento spirituale per i monaci guerrieri che cercano di rafforzare il corpo e lo spirito.
 
 ### **5. Cultura e Tradizioni**
 

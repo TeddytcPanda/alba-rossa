@@ -1,4 +1,4 @@
-Di seguito trovi una proposta narrativa e degli spunti per gestire l'incontro nell'isola tartaruga, in cui il momento clou sarà la trasformazione di Yuka e l'opportunità per gli altri PG di commentare e condividere le proprie esperienze con Puggo. La scena è pensata per essere un momento di forte drammaticità e roleplay, in cui si intrecciano il passato travagliato di Yuka, il patto spirituale con Yurami e la redenzione attraverso la purificazione.
+Di seguito trovi una proposta narrativa e degli spunti per gestire l'incontro nell'isola tartaruga, in cui il momento clou sarà la trasformazione di Yuka e l'opportunità per gli altri PG di commentare e condividere le proprie esperienze con Puggo. La scena è pensata per essere un momento di forte drammaticità e roleplay, in cui si intrecciano il passato travagliato di Yuka, il patto spirituale con [[Yurami]] e la redenzione attraverso la purificazione.
 
 ---
 
@@ -27,7 +27,7 @@ I dialoghi sono intesi a far emergere che la storia di Puggo non è solo una vic
 
 ### La Proposta del Ritual
 
-Quando il rituale inizia, la tartaruga—che funge da tramite tra il mondo mortale e lo spirito di Yurami—proietta una visione intensa in cui si rivela la verità del potere che scorre in Yuka. Attraverso immagini e un sussurro profondo (non dissimile dalla frase “il sangue non mente”), le energie naturali e la saggezza di Yurami parlano direttamente a Yuka:
+Quando il rituale inizia, la tartaruga—che funge da tramite tra il mondo mortale e lo spirito di [[Yurami]]—proietta una visione intensa in cui si rivela la verità del potere che scorre in Yuka. Attraverso immagini e un sussurro profondo (non dissimile dalla frase “il sangue non mente”), le energie naturali e la saggezza di [[Yurami]] parlano direttamente a Yuka:
 
 > **"Il sangue non mente. Tu hai portato una parte del potere del Drago Rosso, ma questo fardello oscura il cammino della tua vera essenza. Ora, la via è davanti a te: scegliere di abbracciare la redenzione e lasciar andare l'influenza del Drago Rosso, perdendo quel potere ma liberando la tua anima. Oppure, restare ancorata a quella forza, condannata a vagare in conflitto. La scelta è tua."**
 
@@ -50,7 +50,7 @@ Quando il rituale inizia, la tartaruga—che funge da tramite tra il mondo morta
 
 ### Momenti Drammatici e Decisione
 
-Durante il processo, la tartaruga e il suo legame con Yurami creano un ambiente carico di significato:
+Durante il processo, la tartaruga e il suo legame con [[Yurami]] creano un ambiente carico di significato:
 
 - **Il Climax Emotivo:**  
     In un momento culminante del rituale, gli altri PG possono intervenire, offrendo parole di incoraggiamento o condividendo i loro ricordi, aiutando Yuka a riscoprire chi era una volta. Questa interazione rende la scelta di Yuka ancora più personale, poiché sentirà il peso e il sostegno dei suoi compagni.
@@ -71,8 +71,8 @@ Durante il processo, la tartaruga e il suo legame con Yurami creano un ambiente 
 - **Per i PG:**  
     Il gruppo avrà assistito a un momento di grande trasformazione e potrà discutere apertamente delle cicatrici emotive e fisiche viste in Puggo/Yuka. Questo rafforza il legame all’interno della ciurma e offre ulteriori spunti per indagare sugli effetti che vecchi patimenti e nuove potenze possono avere su ciascuno di loro.
     
-- **Legami con Yurami e la Tartaruga:**  
-    La connessione con la tartaruga senziente e con Yurami rimane un punto cardine della narrazione. Questi elementi potranno far emergere ulteriori missioni, magari per approfondire la conoscenza dei poteri fati e per confrontarsi con altre entità legate al destino di Yuka.
+- **Legami con [[Yurami]] e la Tartaruga:**  
+    La connessione con la tartaruga senziente e con [[Yurami]] rimane un punto cardine della narrazione. Questi elementi potranno far emergere ulteriori missioni, magari per approfondire la conoscenza dei poteri fati e per confrontarsi con altre entità legate al destino di Yuka.
 
 ---
 

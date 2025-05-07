@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Pharasma
 
 ## 1. Caratteristiche Generali

@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Shelyn
 
 ## 1. Caratteristiche Generali

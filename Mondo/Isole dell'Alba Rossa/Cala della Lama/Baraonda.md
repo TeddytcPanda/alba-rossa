@@ -1,15 +1,32 @@
+---
+tags:
+  - luogo
+  - città
+isola: "[[Cala della Lama]]"
+quartieri:
+  - "[[Porto delle Ombre]]"
+  - "[[Quartiere dei Vizi]]"
+  - "[[La Rovina dei Relitti]]"
+  - "[[Navi Pendenti]]"
+  - "[[Grotte Sanguigne]]"
+luoghi d'interesse:
+  - "[[Piazza del Mercato Nero]]"
+  - "[[Taverna della Sirena Infangata]]"
+  - "[[Fortezza di Dente Nero]]"
+---
+
 Città principale di [[Cala della Lama]]
 #luogo/città
 
 ### **Zone della Città di Baraonda**
 
 #### **1. Il [[Porto delle Ombre|Porto delle Ombre]]**
-- **Descrizione**: Il cuore pulsante della città, dove le navi pirata attraccano e le merci illegali vengono scaricate. Le navi pendenti dal soffitto della caverna sono visibili da qui, creando un'atmosfera surreale.
+- **Descrizione**: Il cuore pulsante della città, dove le navi pirata attraccano e le merci illegali vengono scaricate. Le [[navi pendenti]] dal soffitto della caverna sono visibili da qui, creando un'atmosfera surreale.
 - **Elementi Chiave**:
   - **Moli Fatiscenti**: Pontili di legno consumato dal mare, dove le navi scaricano merci rubate.
   - **Magazzini Pirata**: Edifici bassi e robusti, pieni di casse, barili e tesori.
   - **Mercato Galleggiante**: Zattere e barche ancorate, dove si vendono armi, spezie e oggetti esotici.
-  - **La Taverna della Sirena Infangata**: Situata su una delle navi incastrate nelle scogliere, con vista sul porto.
+  - **La [[Taverna della Sirena Infangata]]**: Situata su una delle navi incastrate nelle scogliere, con vista sul porto.
 ---
 
 #### **2. Il [[Quartiere dei Vizi|Quartiere dei Vizi]]**
@@ -45,7 +62,7 @@ Città principale di [[Cala della Lama]]
 - **Descrizione**: Una rete di grotte e tunnel che si estendono sotto la città, usate per attività illegali e rituali oscuri.
 - **Elementi Chiave**:
   - **Depositi di Contrabbando**: Nascondigli pieni di merci rubate e tesori.
-  - **Il Tempio dell’Ombra**: Un luogo sacro ai cultisti di Norgorber, dove si praticano rituali segreti.
+  - **Il Tempio dell’Ombra**: Un luogo sacro ai cultisti di [[Norgorber]], dove si praticano rituali segreti.
   - **Passaggi Segreti**: Collegamenti nascosti che portano fuori dalla città o in altre zone.
 
 ---
@@ -69,4 +86,4 @@ Città principale di [[Cala della Lama]]
 ---
 
 ### **Descrizione**
-_"Mentre camminate per **Baraonda**, la città si divide in zone distinte, ognuna con la sua atmosfera unica. Il **Porto delle Ombre** è un brulicare di attività, con navi che scaricano merci e il Mercato Galleggiante che offre ogni tipo di oggetto illegale. Più avanti, il **Quartiere dei Vizi** vi accoglie con luci rosse, risate e il rumore di dadi che rotolano. Le **Navi Pendenti** sopra di voi creano un'ombra inquietante, mentre nella **Fortezza di Dente Nero** i capitani pirata decidono il destino della città. E se vi avventurate nelle **Grotte Sanguigne**, troverete segreti che pochi osano svelare."_
+_"Mentre camminate per **Baraonda**, la città si divide in zone distinte, ognuna con la sua atmosfera unica. Il **[[Porto delle Ombre]]** è un brulicare di attività, con navi che scaricano merci e il Mercato Galleggiante che offre ogni tipo di oggetto illegale. Più avanti, il **[[Quartiere dei Vizi]]** vi accoglie con luci rosse, risate e il rumore di dadi che rotolano. Le **[[Navi Pendenti]]** sopra di voi creano un'ombra inquietante, mentre nella **[[Fortezza di Dente Nero]]** i capitani pirata decidono il destino della città. E se vi avventurate nelle **[[Grotte Sanguigne]]**, troverete segreti che pochi osano svelare."_

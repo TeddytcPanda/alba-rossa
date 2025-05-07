@@ -41,7 +41,7 @@
 - **Contatti**: 
 
 ## Eventi Importanti
-- Hanno incontrato la ciurma all'interno della taverna dello Scoglio Sfregiato a Porto del Tuono.
+- Hanno incontrato la ciurma all'interno della taverna dello Scoglio Sfregiato a [[Porto del Tuono]].
 - Hanno incontrato la ciurma di [[Sarumi Kintsugi]]
 
 ## Note

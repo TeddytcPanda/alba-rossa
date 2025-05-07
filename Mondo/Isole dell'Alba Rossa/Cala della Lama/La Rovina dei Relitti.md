@@ -1,5 +1,6 @@
+
 #luogo/città/quartiere [[Cala della Lama]][[Baraonda]]
-La **Rovina dei Relitti** è una delle zone più affascinanti e pericolose di **Baraonda**, un luogo dove le navi danneggiate o affondate sono state trascinate dalle correnti e abbandonate, creando un labirinto di legni marci, scafi spezzati e tesori nascosti. Quest'area è un mix tra un cimitero navale e un rifugio per i reietti della società, dove pirati, contrabbandieri e creature marine trovano riparo. Ecco una descrizione dettagliata di questa zona:
+La **Rovina dei Relitti** è una delle zone più affascinanti e pericolose di **[[Baraonda]]**, un luogo dove le navi danneggiate o affondate sono state trascinate dalle correnti e abbandonate, creando un labirinto di legni marci, scafi spezzati e tesori nascosti. Quest'area è un mix tra un cimitero navale e un rifugio per i reietti della società, dove pirati, contrabbandieri e creature marine trovano riparo. Ecco una descrizione dettagliata di questa zona:
 
 ---
 
@@ -37,11 +38,11 @@ _"La Rovina dei Relitti è un labirinto di navi spezzate e scafi marci, ammassat
 
 #### **1. [[Capitan Rottame]]**
 - **Descrizione**: Un ex-pirata che ha perso la sua nave e ora vive in un relitto trasformato in fortezza. È conosciuto come il "re dei relitti" e controlla gran parte della zona.
-- **Personalità**: Burbero ma giusto, Capitan Rottame è rispettato dai residenti della Rovina. È disposto ad aiutare chi lo rispetta, ma non tollera i ladri o i traditori.
+- **Personalità**: Burbero ma giusto, [[Capitan Rottame]] è rispettato dai residenti della Rovina. È disposto ad aiutare chi lo rispetta, ma non tollera i ladri o i traditori.
 - Utilizza pezzi di mostri per costruire armi, armature e oggetti magici
 
 #### **2. Marisole**
-- **Descrizione**: La giovane cameriera della **Sirena Infangata** si è rifugiata nella Rovina dei Relitti dopo essere scappata dal culto di Norgorber. È nascosta in un relitto abbandonato, cercando di rimanere inosservata.
+- **Descrizione**: La giovane cameriera della **Sirena Infangata** si è rifugiata nella Rovina dei Relitti dopo essere scappata dal culto di [[Norgorber]]. È nascosta in un relitto abbandonato, cercando di rimanere inosservata.
 - **Personalità**: Spaventata ma determinata, Marisole è disposta a tutto pur di sopravvivere. Sa che il culto la sta cercando e ha paura di essere trovata.
 - **Missioni**: I giocatori potrebbero doverla trovare e proteggere, o convincerla a tornare con loro per affrontare il culto.
 

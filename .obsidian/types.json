@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "quartieri": "multitext",
+    "luoghi": "multitext",
+    "luoghi d'interesse": "multitext",
+    "NPC": "multitext",
+    "sedi": "multitext",
+    "Relazioni": "multitext",
+    "casa": "multitext",
+    "Alleati": "multitext",
+    "Nemici": "multitext",
+    "Fazione": "multitext",
+    "fazioni-collegate": "multitext"
+  }
+}

@@ -1,3 +1,14 @@
+---
+tags:
+  - luogo
+  - dungeon
+isola: "[[Cala della Lama]]"
+NPC:
+  - "[[Syr’Vhalak]]"
+  - "[[Signore del Crepuscolo]]"
+  - "[[Aldrin]]"
+---
+
 ## 📜 **Struttura del Dungeon**
 
 [[Syr’Vhalak]] fa difendere il suo tesoro da non morti, diavoli e demoni sotto il suo comando mentre è in giro cercando di 
@@ -87,7 +98,7 @@ Un delicato medaglione d'argento con un ritratto sbiadito – forse un indizio s
 - **Descrizione DM:**  
     "La cucina, un tempo cuore pulsante delle feste, ora ospita il relitto di un banchetto dimenticato. Pentole bruciate, calderoni rotti e un odore di cibo avariato creano un'atmosfera decadente."
 - **Mostri:**  
-    Un gruppo di zombie si aggira in cerca di prede. Possono cercare di controllarli tramite il potere di Shar
+    Un gruppo di zombie si aggira in cerca di prede. Possono cercare di controllarli tramite il potere di [[Shar]]
 - **Tesori/Indizi:**  
     Un armadietto chiuso a chiave cela un vecchio libro di ricette, con annotazioni criptiche che parlano di un antidoto per una maledizione persistente. Possono essere trovati anche posate d’argento con un sigillo nascosto legato alla storia del castello.
 

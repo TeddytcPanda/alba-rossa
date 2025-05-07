@@ -1,12 +1,12 @@
 # Iniziativa
-- Yaren
-- Shar
-- Pente
+- [[Yaren]]
+- [[Shar]]
+- [[Pente]]
 - Wraight 16
 - Puggo
-- Muffa
-- Levi
-- Eve
+- [[Muffa]]
+- [[Levi]]
+- [[Eve]]
 
 
 

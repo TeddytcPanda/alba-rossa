@@ -1,4 +1,8 @@
-#luogo/isola
+---
+tags:
+  - luogo
+  - isola
+---
 # **Aether**
 
 L'**Isola Volante di Aether** è un luogo di straordinario potere magico, sospesa nel cielo sopra l'Arcipelago dell'Alba Rossa. Questa isola, letteralmente sollevata dall'energia arcana, fluttua serenamente sopra le nuvole, invisibile alla maggior parte dei mortali a meno che non si conoscano i rituali o gli incantesimi necessari per rivelarla.
@@ -35,8 +39,8 @@ L'**Isola Volante di Aether** è un luogo di straordinario potere magico, sospes
 ### **7. Risorse e Economia**
 - **Cristalli Arcani**: L'isola è una delle poche fonti di **Cristalli Arcani**, pietre preziose che contengono pura energia magica. Questi cristalli sono altamente richiesti e vengono usati per creare artefatti di grande potere.
 - **Essenza di Fulmine**: Le tempeste che circondano l'isola lasciano spesso dietro di sé **Essenza di Fulmine**, un raro elemento utilizzato per potenziare incantesimi o creare armi magiche. Questa risorsa è raccolta dai maghi più coraggiosi, che sfidano le tempeste per ottenere queste preziose gocce di energia.
-- **Conoscenza e Sapienza**: Oltre alle risorse materiali, la principale ricchezza dell'isola è la conoscenza arcana. La Cittadella di Aether è un centro di apprendimento magico, e molti maghi, studiosi e avventurieri giungono qui in cerca di insegnamenti, pergamene rare o antichi tomi di sapienza.
+- **Conoscenza e Sapienza**: Oltre alle risorse materiali, la principale ricchezza dell'isola è la conoscenza arcana. La [[Cittadella di Aether]] è un centro di apprendimento magico, e molti maghi, studiosi e avventurieri giungono qui in cerca di insegnamenti, pergamene rare o antichi tomi di sapienza.
 
-L'Isola Volante della Cittadella di Aether è dunque un luogo di incredibile potere e bellezza, un bastione della magia che domina il cielo sopra l'Arcipelago dell'Alba Rossa. Tuttavia, con il suo grande potere, giunge anche un grande pericolo, e solo coloro che sono degni e ben preparati possono sperare
+L'Isola Volante della [[Cittadella di Aether]] è dunque un luogo di incredibile potere e bellezza, un bastione della magia che domina il cielo sopra l'Arcipelago dell'Alba Rossa. Tuttavia, con il suo grande potere, giunge anche un grande pericolo, e solo coloro che sono degni e ben preparati possono sperare
 
  di svelare i suoi segreti senza soccombere alle forze che la proteggono e la circondano.

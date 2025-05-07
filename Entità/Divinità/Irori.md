@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Irori
 
 ## 1. Caratteristiche Generali

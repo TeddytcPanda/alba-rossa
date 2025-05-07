@@ -13,8 +13,8 @@
     - Utilizza magie divine per benedire la ciurma, evocare brevi tempeste o confondere i nemici in battaglia.
     - È abile nel curare le ferite e nel creare pozioni marine a partire da ingredienti trovati lungo le coste.
 - **Relazioni e Dinamiche di Gruppo**:
-    - **Con Karlach**: Lei apprezza la presenza di Tiberio come equilibrio spirituale alla brutalità del combattimento.
-    - **Con Gorak**: Il guerriero orco riconosce in lui un prezioso alleato per mantenere il caos sotto controllo, soprattutto quando la battaglia si fa intensa.
+    - **Con [[Karlach]]**: Lei apprezza la presenza di Tiberio come equilibrio spirituale alla brutalità del combattimento.
+    - **Con [[Gorak]]**: Il guerriero orco riconosce in lui un prezioso alleato per mantenere il caos sotto controllo, soprattutto quando la battaglia si fa intensa.
 - **Punti di Debolezza**:
     - Il suo entusiasmo per il caos può renderlo impulsivo, e a volte la sua fede cieca in Besmara lo porta a sottovalutare le conseguenze delle sue azioni.
     - La sua inclinazione a interpretare ogni evento come un segno divino può metterlo in conflitto con chi predilige strategie più calcolate.

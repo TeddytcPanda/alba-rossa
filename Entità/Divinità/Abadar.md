@@ -1,3 +1,8 @@
+---
+tags:
+  - divinità
+---
+
 ## **Abadar: Divinità della Civiltà e dell'Ordine**  
 Abadar è una divinità paziente e strategica, dedita a diffondere civiltà, ordine e prosperità attraverso leggi eque e commercio. Il suo obiettivo è illuminare le zone selvagge, promuovendo città organizzate, infrastrutture e giustizia. Pur bilanciando aspetti del bene e del male, privilegia il progresso sistematico, rifiutando caos e impulsività.  
 
@@ -15,7 +20,7 @@ I suoi devoti includono mercanti, giudici, artigiani e leader politici. I templi
 - **Inquisitori ("Esattori")**: Contrastano frodi ed evasioni, garantendo equità fiscale.  
 
 ## **Relazioni con Altre Divinità**  
-Abadar collabora con divinità legate a giustizia, conoscenza e arti (come Iomedae e Shelyn), ma si scontra con entità caotiche o distruttive (Rovagug, Lamashtu). Pur critico verso chi mina l’ordine (es. Norgorber), cerca compromessi con figure come Gozreh, rispettando la natura.  
+Abadar collabora con divinità legate a giustizia, conoscenza e arti (come [[Iomedae]] e [[Shelyn]]), ma si scontra con entità caotiche o distruttive ([[Rovagug]], [[Lamashtu]]). Pur critico verso chi mina l’ordine (es. [[Norgorber]]), cerca compromessi con figure come [[Gozreh]], rispettando la natura.  
 
 ## **Mito e Simbolismo**  
 Il suo regno è una città perfetta, sede della "Prima Volta", un archivio di forme ideali (leggi, oggetti, creature) che ispira mortali. È rappresentato come un uomo elegante con una chiave d'oro, simbolo di opportunità e ordine.  

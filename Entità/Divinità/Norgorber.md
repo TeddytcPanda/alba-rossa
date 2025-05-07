@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Norgorber
 
 ## 1. Caratteristiche Generali

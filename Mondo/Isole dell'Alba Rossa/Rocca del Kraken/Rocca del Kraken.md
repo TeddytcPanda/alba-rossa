@@ -22,7 +22,7 @@ L'isola di Rocca del Kraken è un luogo oscuro e temuto nell'Arcipelago dell'Alb
 - **Popolazione Totale**: Circa 3.000 abitanti, ma il numero varia considerevolmente a seconda della stagione e delle attività dei pirati.
 - **Ancestri**: Umani (50%), Mezzi-Orchi (20%), Nani (10%), Goblin (10%), Altri (10%).
 - **Lingue**: Comune, Orchesco, Goblin, Varisiano.
-- **Religioni**: Besmara (ufficiale), Gozreh, Lamashtu (in segreto), culto del Kraken (sincretico).
+- **Religioni**: Besmara (ufficiale), [[Gozreh]], [[Lamashtu]] (in segreto), culto del Kraken (sincretico).
 
 ### **5. Ambiente e Natura**
 - **Scogliere della Disperazione**: Le scogliere che circondano l'isola sono note per essere quasi impossibili da scalare, e sono spesso avvolte in nebbie pericolose. Solo i marinai più esperti riescono a navigare in sicurezza attorno all'isola.
@@ -32,7 +32,7 @@ L'isola di Rocca del Kraken è un luogo oscuro e temuto nell'Arcipelago dell'Alb
 ### **6. Minacce e Conflitti**
 - **Il Kraken**: La leggenda più persistente è quella del kraken, una creatura marina di dimensioni colossali che si dice abiti nelle acque profonde attorno all'isola. Alcuni credono che il kraken sia un'antica creatura venerata dai cultisti locali, altri lo vedono come un'arma vivente che protegge l'isola dai nemici.
 - **Faide tra Pirati**: Le rivalità tra i capitani pirata sono comuni e spesso sfociano in scontri violenti. Le alleanze cambiano frequentemente, e le faide possono trasformare rapidamente Krakenport in un campo di battaglia.
-- **Influenza di Lamashtu**: Sebbene Besmara sia la dea principale venerata sull'isola, piccoli culti dedicati a Lamashtu operano nell'ombra, praticando rituali oscuri nelle profondità delle caverne. Questi cultisti vedono il kraken come un'incarnazione della dea e cercano di corrompere ulteriormente l'isola con la loro malvagità.
+- **Influenza di [[Lamashtu]]**: Sebbene Besmara sia la dea principale venerata sull'isola, piccoli culti dedicati a [[Lamashtu]] operano nell'ombra, praticando rituali oscuri nelle profondità delle caverne. Questi cultisti vedono il kraken come un'incarnazione della dea e cercano di corrompere ulteriormente l'isola con la loro malvagità.
 
 ### **7. Luoghi di Interesse**
 - **Il Tempio del Kraken**: Questo tempio, situato in una caverna che si affaccia sul mare, è dedicato al culto del kraken e Besmara. Qui, i pirati offrono sacrifici per placare la creatura e per garantirsi buona fortuna in mare. Le pareti sono decorate con dipinti di battaglie navali e rappresentazioni del kraken.

@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Desna
 
 ## 1. Caratteristiche Generali

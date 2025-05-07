@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 ## 1. Caratteristiche Generali
 - **Deità della libertà e del coraggio:**  
   Cayden Cailean è il dio dell’avventura, della bevuta e del coraggio. Originariamente un mortale che si è elevato al rango divino grazie al suo spirito libero e alla sua audacia, incarna l’idea di vivere la vita senza catene e con gioia.

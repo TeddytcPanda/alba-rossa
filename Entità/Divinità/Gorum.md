@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 ## 1. Caratteristiche Generali
 - **Deità della guerra e della forza:**  
   Gorum incarna l'ardore del combattimento e l'onore che si guadagna nel conflitto. È venerato da guerrieri, barbari e da chi crede che la forza fisica e il coraggio siano le virtù fondamentali per affermarsi nel mondo.

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8f5a95b0da2bea66",
+        "id": "1fd1f1d125a570a1",
         "type": "tabs",
         "children": [
           {
-            "id": "f004ab3c0d4f6698",
+            "id": "41805c7b4c387622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quest/L’Occhio del Leviatano.md",
+                "file": "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L’Occhio del Leviatano"
+              "title": "Forte Ferro"
+            }
+          },
+          {
+            "id": "20058346f7dc852c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Alleati/Capitan Rottame.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capitan Rottame"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 294.5
   },
   "right": {
     "id": "60d0c2537f6a3c4d",
@@ -94,17 +109,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "alba-rossa/Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
+                "file": "NPC/Alleati/Capitan Rottame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Isole dell'Alba Rossa"
+              "title": "Backlinks for Capitan Rottame"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "alba-rossa/Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "NPC/Alleati/Capitan Rottame.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Isole dell'Alba Rossa"
+              "title": "Outgoing links from Capitan Rottame"
             }
           },
           {
@@ -142,31 +157,59 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "alba-rossa/Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
+                "file": "NPC/Alleati/Capitan Rottame.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Isole dell'Alba Rossa"
+              "title": "Outline of Capitan Rottame"
             }
           },
           {
-            "id": "907e97e018d011cd",
+            "id": "babaa15e7835f3e4",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "3636e77d90ce3079",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "pinned": true,
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "ca9a848c847af67e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e0426813b6dcab4",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 516.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -179,41 +222,46 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f004ab3c0d4f6698",
+  "active": "20058346f7dc852c",
   "lastOpenFiles": [
-    "Quest/13. Pianifichiamo l'assalto.md",
-    "Quest/L’Occhio del Leviatano.md",
-    "NPC/Alleati/Sinhat Mirastra.md",
-    "Mondo/Kah'Tha'Nha.md",
-    "NPC/Alleati/Capitan Rottame.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/La Rovina dei Relitti.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Baraonda.md",
-    "PG/Levi.md",
-    "PG/Nemo.md",
-    "Untitled/Pasted image 20250318222340.png",
-    "NPC/Alleati/Ygrak.md",
-    "_a9d987a2-7af3-40c7-b1a4-0c1a9ab63f52.jpg",
-    "Velloss.md",
-    "Untitled/Pasted image 20250413224833.png",
-    "NPC/Alleati/Dorgar.md",
-    "NPC/Alleati/Gustava.md",
-    "PG/Eve.md",
-    "NPC/Alleati/Karlach.md",
-    "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
-    "Mondo/Isole dell'Alba Rossa/Scogliere di Eos/Scogliere di Eos.md",
-    "Mondo/Isole dell'Alba Rossa/Rifugio del Vento/Rifugio del Vento.md",
-    "Risorse utili/Heliana's Guide to Monster Hunting (v2.02).pdf",
-    "Mondo/Isole dell'Alba Rossa/L'Isola tartaruga.md",
+    "NPC/Nemici/Commodoro Thane Ravenscroft.md",
+    "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
+    "Risorse utili/5 Room Dungeon.md",
+    "PG/Yaren.md",
+    "PG/Shar.md",
     "PG/Puggo-Yuka.md",
-    "a. ONESHOT MESAGNE - NERO.md",
-    "Untitled/Untitled 1.md",
-    "b. ONESHOT MESAGNE - La casa degli strani oggetti.md",
-    "Mondo/Isole dell'Alba Rossa/Cala della Lama/Castello di Eldrenn.md",
+    "PG/Pente.md",
+    "PG/Nemo.md",
+    "PG/Muffa.md",
+    "PG/Levi.md",
     "Untitled/Roba.md",
-    "NPC/Alleati/Yurami.md",
+    "PG/Eve.md",
+    "NPC/Il Primo Custode.md",
+    "NPC/Custode delle Maschere.md",
+    "NPC/Neutrali/Madame Zara.md",
+    "NPC/Neutrali/Grillo il Sorridente.md",
+    "NPC/Neutrali/Fiorillia.md",
+    "NPC/Nemici/Triton.md",
+    "NPC/Nemici/Syr’Vhalak.md",
+    "NPC/Nemici/Sullivan Usargu.md",
+    "NPC/Nemici/Padre Topher.md",
+    "NPC/Nemici/Il Silente Rosso.md",
+    "NPC/Nemici/Ander Tatus.md",
+    "NPC/Nemici/Aldrin.md",
+    "NPC/Alleati/Capitan Rottame.md",
+    "NPC/Ciurma/Pio Perculo.md",
+    "Mondo/Isole dell'Alba Rossa/z_Images/Le Isole dell'Alba Rossa.jpg",
+    "zz_Templates",
+    "Untitled/Pasted image 20250318222340.png",
+    "_a9d987a2-7af3-40c7-b1a4-0c1a9ab63f52.jpg",
+    "Untitled/Pasted image 20250413224833.png",
+    "Risorse utili/Heliana's Guide to Monster Hunting (v2.02).pdf",
     "Untitled/Pasted image 20250221091841.png",
     "Untitled",
     "Untitled/Pasted image 20250221091905.png",
@@ -221,14 +269,12 @@
     "Untitled/Pasted image 20250221100015.png",
     "Untitled/Pasted image 20250221095634.png",
     "Untitled/Pasted image 20250221095403.png",
-    "Untitled/Pasted image 20250221095351.png",
     "NPC/Neutral",
     "Risorse utili",
     "NPC/Neutrali",
     "Mondo/Isole dell'Alba Rossa/Scogliere di Eos",
     "Mondo/Isole dell'Alba Rossa/Rocca del Kraken",
     "Mondo/Isole dell'Alba Rossa/Rifugio del Vento",
-    "Mondo/Isole dell'Alba Rossa/Aqualungra",
-    "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono"
+    "Mondo/Isole dell'Alba Rossa/Aqualungra"
   ]
 }

@@ -11,7 +11,7 @@
 
 ## Storia del Personaggio
 Eve (Talindra Evangeline Octopus)
-Principessa del regno di Aqualungra, futura erede al trono. Eve è sempre cresciuta con questo
+Principessa del regno di [[Aqualungra]], futura erede al trono. Eve è sempre cresciuta con questo
 grosso fardello sulla schiena. I suoi genitori - il re Elashor V e la regina Valindra - sono dei
 sovrani amati dal loro popolo.
 Erano anche dei bravi genitori ma questo fatto che le avessero già programmato tutta la sua vita
@@ -34,12 +34,12 @@ rendere tutti più liberi come avrebbe voluto. Il consiglio delle famiglie nobil
 impedito. Gli unici momenti di libertà che riusciva ad assaporare erano quando riusciva a fare le
 sue pozioni. Aveva trovato in un vecchio forziere delle formule con degli ingredienti e ha
 cominciato farle ma gli ingredienti scarseggiano e lei è sempre più curiosa di scoprire cos'altro si
-può creare con i giusti ingredienti e le giuste formule. Ha introdotto anche Sinhat a questa sua
+può creare con i giusti ingredienti e le giuste formule. Ha introdotto anche [[Sinhat Mirastra|Sinhat]] a questa sua
 passione. Quindi, decidono insieme di scappare. Durante la fuga però vengono trovati da
-alcune guardie e Sinhat si sacrifica rimanendo nel regno e dando a Eve la possibilità di una
+alcune guardie e [[Sinhat Mirastra|Sinhat]] si sacrifica rimanendo nel regno e dando a Eve la possibilità di una
 nuova vita. Ad un certo punto Eve si ritrova sulla terra ferma. Un'isola non molto lontana dal suo
 regno in realtà. Spaesata e intimorita, si fa coraggio e trova una piccola casetta apparentemente
-abbandonata. Qui incontra Yaren. (incontro con Yaren da rivedere)
+abbandonata. Qui incontra [[Yaren]]. (incontro con [[Yaren]] da rivedere)
 ## Combattimento
 - **Ruolo**: 
 - **Tattiche più utilizzate**: 

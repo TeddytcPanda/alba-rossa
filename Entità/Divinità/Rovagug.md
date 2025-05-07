@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Rovagug
 
 ## 1. Caratteristiche Generali

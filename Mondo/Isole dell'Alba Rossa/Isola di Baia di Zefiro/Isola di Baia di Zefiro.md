@@ -18,11 +18,11 @@ L'isola di **Baia di Zefiro** è una delle gemme più affascinanti dell'Arcipela
 
 #### **4. Strutture e Insediamenti**
 - **Porto di Zefiro**: Il principale insediamento dell'isola è **Porto di Zefiro**, una città vivace che si sviluppa attorno alla baia. Il porto è un hub commerciale e turistico, con navi che vanno e vengono cariche di merci esotiche, spezie e artigianato locale. Le case sono costruite in stile marittimo, con tetti a spiovente e pareti dipinte di colori vivaci che riflettono il carattere allegro degli abitanti.
-- **Tempio del Vento**: Sulle colline che sovrastano la baia si erge il **Tempio del Vento**, un luogo sacro dedicato a Gozreh, dove i fedeli si recano per pregare e chiedere protezione per i marinai e i pescatori. Il tempio è circondato da giardini ben curati e offre una vista spettacolare sull'intera isola e sulle acque circostanti.
+- **Tempio del Vento**: Sulle colline che sovrastano la baia si erge il **Tempio del Vento**, un luogo sacro dedicato a [[Gozreh]], dove i fedeli si recano per pregare e chiedere protezione per i marinai e i pescatori. Il tempio è circondato da giardini ben curati e offre una vista spettacolare sull'intera isola e sulle acque circostanti.
 - **Il Mercato del Mare**: Ogni settimana, Porto di Zefiro ospita il **Mercato del Mare**, un evento colorato dove si vendono pesci freschi, frutti di mare, spezie e artigianato locale. Qui i visitatori possono gustare piatti tipici come il **Polpo alla Zefira** e il **Vino di Cocco**, prodotti esclusivi dell'isola.
 
 #### **5. Cultura e Tradizioni**
-- **Festival dei Venti**: Uno degli eventi più importanti dell'isola è il **Festival dei Venti**, celebrato ogni anno in onore di Gozreh. Durante il festival, si tengono regate, spettacoli di danza e musica, e la popolazione decora le barche con fiori e nastri colorati, in una celebrazione che dura una settimana intera.
+- **Festival dei Venti**: Uno degli eventi più importanti dell'isola è il **Festival dei Venti**, celebrato ogni anno in onore di [[Gozreh]]. Durante il festival, si tengono regate, spettacoli di danza e musica, e la popolazione decora le barche con fiori e nastri colorati, in una celebrazione che dura una settimana intera.
 - **Tradizioni Marittime**: Gli abitanti di Baia di Zefiro sono noti per le loro abilità nella costruzione navale e nella pesca. Le loro barche, chiamate **Zefire**, sono famose in tutto l'arcipelago per la loro velocità e manovrabilità, e vengono spesso utilizzate dai mercanti e dagli avventurieri.
 
 #### **6. Segreti e Misteri**

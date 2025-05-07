@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Urgathoa
 
 ## 1. Caratteristiche Generali

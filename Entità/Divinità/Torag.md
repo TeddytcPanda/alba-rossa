@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Torag
 
 ## 1. Caratteristiche Generali

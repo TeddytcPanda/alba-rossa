@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 ### 1. Caratteristiche Generali
 
 - **Dea del piacere e della vendetta:**  

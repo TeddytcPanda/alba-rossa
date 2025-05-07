@@ -3,5 +3,10 @@
   "dataview",
   "obsidian-5e-statblocks",
   "obsidian-icon-folder",
-  "obsidian-git"
+  "templater-obsidian",
+  "note-refactor-obsidian",
+  "obsidian-dice-roller",
+  "initiative-tracker",
+  "fantasy-content-generator",
+  "table-editor-obsidian"
 ]

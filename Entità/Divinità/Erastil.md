@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Erastil
 
 ## 1. Caratteristiche Generali

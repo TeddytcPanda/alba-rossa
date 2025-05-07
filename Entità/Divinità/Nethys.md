@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Nethys
 
 ## 1. Caratteristiche Generali

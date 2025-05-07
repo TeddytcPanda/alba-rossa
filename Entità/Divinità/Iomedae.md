@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 ## 1. Caratteristiche Generali
 - **Dea della giustizia e del valor militare:**  
   Iomedae incarna l'onore, la lealtà e la protezione degli innocenti. È venerata soprattutto da paladini, cavalieri e guerrieri che lottano per il bene e la giustizia.

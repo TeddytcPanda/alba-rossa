@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Lamashtu
 
 ## 1. Caratteristiche Generali

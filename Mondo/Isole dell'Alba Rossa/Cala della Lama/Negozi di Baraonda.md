@@ -1,7 +1,7 @@
 #luogo/città/negozi [[Cala della Lama]][[Baraonda]]
 
 # 1.  Negozi di [[Porto delle Ombre|Porto delle Ombre]]
-Ecco una lista di **negozi semplici** per **Porto delle Ombre**, con nomi italiani e merce in vendita, ideali per un porto oscuro e misterioso:
+Ecco una lista di **negozi semplici** per **[[Porto delle Ombre]]**, con nomi italiani e merce in vendita, ideali per un porto oscuro e misterioso:
 
 ---
 
@@ -102,5 +102,5 @@ Ecco una lista di **negozi semplici** per **Porto delle Ombre**, con nomi italia
 - Zuppa di pesce con "pezzi misteriosi".  
 - Pane raffermo intinto nell’olio di balena.  
 - Stufato di carne (provenienza non specificata).  
-- Formaggi stagionati con muffa bluastra.  
+- Formaggi stagionati con [[muffa]] bluastra.  
 - Mele secche con un retrogusto dolce-amaro.  

@@ -1,6 +1,18 @@
+---
+tags:
+  - luogo
+  - quartiere
+isola: "[[Cala della Lama]]"
+città: "[[Cala della Lama]]"
+NPC:
+  - "[[Ander Tatus]]"
+  - "[[Xanathar]]"
+  - "[[Karlach]]"
+---
+
 #luogo/città/quartiere [[Cala della Lama]][[Baraonda]]
 #luogo/città/quartiere/luogodinteresse  
-La **Fortezza di Dente Nero** domina la città pirata di Baraonda dall'alto della sua piattaforma rocciosa, situata all'interno della vasta caverna che ospita l'insediamento. Costruita con materiali di recupero da navi naufragate e fortificata nel tempo, la fortezza funge da centro del potere per i pirati e i criminali che controllano l'isola di Cala della Lama.
+La **Fortezza di Dente Nero** domina la città pirata di [[Baraonda]] dall'alto della sua piattaforma rocciosa, situata all'interno della vasta caverna che ospita l'insediamento. Costruita con materiali di recupero da navi naufragate e fortificata nel tempo, la fortezza funge da centro del potere per i pirati e i criminali che controllano l'isola di [[Cala della Lama]].
 
 ---
 
@@ -17,7 +29,7 @@ La **Fortezza di Dente Nero** domina la città pirata di Baraonda dall'alto dell
 
 ---
 
-### **Il Triumvirato di Baraonda**
+### **Il Triumvirato di [[Baraonda]]**
 
 La Fortezza di Dente Nero non è governata da un solo signore, ma da un triumvirato di potenti individui, ciascuno con il proprio seguito e le proprie ambizioni:
 
@@ -27,13 +39,13 @@ La Fortezza di Dente Nero non è governata da un solo signore, ma da un triumvir
         
     - _Risorse_: Una rete di mercanti corrotti, un esercito personale di sicari e un tesoro accumulato con affari illeciti.
         
-- **[[Xanathar]]**: Un beholder enigmatico e paranoico, che ha trovato rifugio nella fortezza dopo essere stato cacciato da una città più civilizzata. Xanathar governa attraverso il terrore e l'intimidazione, utilizzando i suoi raggi oculari per eliminare chiunque lo tradisca o lo deluda. Controlla una rete di informatori e spie, che gli permettono di sapere tutto ciò che accade a Baraonda e oltre.
+- **[[Xanathar]]**: Un beholder enigmatico e paranoico, che ha trovato rifugio nella fortezza dopo essere stato cacciato da una città più civilizzata. [[Xanathar]] governa attraverso il terrore e l'intimidazione, utilizzando i suoi raggi oculari per eliminare chiunque lo tradisca o lo deluda. Controlla una rete di informatori e spie, che gli permettono di sapere tutto ciò che accade a [[Baraonda]] e oltre.
     
     - _Tratti distintivi_: Fluttua sopra un trono di ossa e monete d'oro, con numerosi occhi attenti a ogni angolo della sala.
         
     - _Risorse_: Una rete di assassini e spie, capacità magiche letali, una collezione di tesori unici.
         
-- **[[Karlach]]**: Una tiefling guerriera dal carattere feroce e indomabile. Un tempo una schiava, si è liberata e ha conquistato il rispetto dei pirati attraverso la forza e il carisma. Karlach gestisce le truppe mercenarie e il sistema di difesa della fortezza, assicurandosi che nessun nemico possa prenderla d'assalto. È l'unica del triumvirato con una certa etica: non tollera traditori e disprezza il traffico di schiavi di Ander Tatus, sebbene per ora tolleri la sua presenza per mantenere l’equilibrio di potere.
+- **[[Karlach]]**: Una tiefling guerriera dal carattere feroce e indomabile. Un tempo una schiava, si è liberata e ha conquistato il rispetto dei pirati attraverso la forza e il carisma. [[Karlach]] gestisce le truppe mercenarie e il sistema di difesa della fortezza, assicurandosi che nessun nemico possa prenderla d'assalto. È l'unica del triumvirato con una certa etica: non tollera traditori e disprezza il traffico di schiavi di [[Ander Tatus]], sebbene per ora tolleri la sua presenza per mantenere l’equilibrio di potere.
     
     - _Tratti distintivi_: Alta, muscolosa, con corna spezzate e occhi ardenti come brace.
         
@@ -59,11 +71,11 @@ La Fortezza di Dente Nero non è governata da un solo signore, ma da un triumvir
 
 La convivenza tra i tre consiglieri non è priva di tensioni:
 
-- **Ander Tatus** è disprezzato da Karlach per il suo commercio di schiavi, e i loro rapporti sono sempre sul filo del rasoio.
+- **[[Ander Tatus]]** è disprezzato da [[Karlach]] per il suo commercio di schiavi, e i loro rapporti sono sempre sul filo del rasoio.
     
-- **Xanathar** è paranoico e sospetta che i suoi alleati vogliano tradirlo; spesso fa sparire chiunque mostri troppa ambizione.
+- **[[Xanathar]]** è paranoico e sospetta che i suoi alleati vogliano tradirlo; spesso fa sparire chiunque mostri troppa ambizione.
     
-- **Karlach** è rispettata dalla maggior parte dei pirati, e potrebbe essere vista come una minaccia dagli altri due membri del triumvirato.
+- **[[Karlach]]** è rispettata dalla maggior parte dei pirati, e potrebbe essere vista come una minaccia dagli altri due membri del triumvirato.
     
 
-Il futuro della fortezza dipende dagli equilibri instabili tra questi tre leader, e un cambiamento improvviso nel potere potrebbe scatenare il caos a Baraonda.
+Il futuro della fortezza dipende dagli equilibri instabili tra questi tre leader, e un cambiamento improvviso nel potere potrebbe scatenare il caos a [[Baraonda]].

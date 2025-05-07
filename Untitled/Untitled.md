@@ -1,4 +1,4 @@
-Ecco una proposta per il **piano terra** del Castello di Eldrenn, studiato in modo da far esplorare ogni stanza prima di poter accedere al secondo piano. Gli incontri sono calibrati per 7 PG di livello 4: la maggior parte saranno “semplici” (max 1750 XP) e soltanto due saranno “medi” (max 2625 XP). Inoltre, in alcune stanze l’azione sarà più narrativa o legata a enigmi/trappole anziché a veri scontri.
+Ecco una proposta per il **piano terra** del [[Castello di Eldrenn]], studiato in modo da far esplorare ogni stanza prima di poter accedere al secondo piano. Gli incontri sono calibrati per 7 PG di livello 4: la maggior parte saranno “semplici” (max 1750 XP) e soltanto due saranno “medi” (max 2625 XP). Inoltre, in alcune stanze l’azione sarà più narrativa o legata a enigmi/trappole anziché a veri scontri.
 
 ---
 

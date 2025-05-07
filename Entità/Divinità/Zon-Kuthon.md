@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 # Riassunto di Zon-Kuthon
 
 ## 1. Caratteristiche Generali

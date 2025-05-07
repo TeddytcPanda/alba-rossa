@@ -1,3 +1,8 @@
+---
+tags:
+  - divinità
+---
+
 ## **1. Caratteristiche Generali**
 
 - Divinità affascinante e dotata di intelligenza acuta.

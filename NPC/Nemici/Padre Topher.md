@@ -1,7 +1,7 @@
 ## Informazioni di Base
 - **Ruolo nella Storia**: Nemico
 - **Razza**: Gnomo
-- **Occupazione**: Gran sacerdote di Gozreh (sacerdote di Asmodeus) 
+- **Occupazione**: Gran sacerdote di [[Gozreh]] (sacerdote di [[Asmodeus]]) 
 - **Descrizione Fisica**: Uno gnomo dal portamento fiero e dalla pelle abbronzata dal sole. Indossa abiti blu e bianco. Nel momento in cui diventa effettivamente una progenie vampirica, perde il senno e segue solo gli ordini del suo padrone. La sua pelle schiarisce e gli occhi diventano rossi. Gli crescono gli artigli.
 ![[Topher.jpg|300]]
 

@@ -1,0 +1,6 @@
+---
+tags:
+  - luogo
+  - sottomarino
+  - stato
+---

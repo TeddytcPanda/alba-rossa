@@ -1,3 +1,7 @@
+---
+tags:
+  - divinità
+---
 ## 1. Caratteristiche Generali
 - **Divinità degli elementi naturali:**  
   Gozreh incarna il potere sia del mare che del cielo, rappresentando l'equilibrio tra la calma benefica e la furia distruttiva degli elementi.

@@ -85,7 +85,7 @@ A differenza delle orde di pirati o assassini degli altri membri del Triumvirato
 ### **Punti di Debolezza**
 
 - Nonostante la sua forza, ha pochi alleati politici nella fortezza. Il suo potere si basa sulla sua reputazione in battaglia, ma se venisse indebolita o tradita, il Triumvirato potrebbe voltarle le spalle.
-- La sua impulsività la porta spesso a confronti diretti invece di intrighi e sotterfugi, rendendola vulnerabile agli inganni di Ander e Xanathar.
+- La sua impulsività la porta spesso a confronti diretti invece di intrighi e sotterfugi, rendendola vulnerabile agli inganni di Ander e [[Xanathar]].
 - Il codice d’onore suo e della sua ciurma può essere sfruttato da chi è disposto a giocare sporco.
 
 ---

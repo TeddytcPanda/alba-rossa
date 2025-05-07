@@ -5,9 +5,10 @@ aliases:
   - Yverlian
 ---
 
-# Progetto Nautilus numero 3- Leviatanna
+# [[Progetto Nautilus]] numero 3- Leviatanna
 
 Levi è una Warforged guerriero campione.
+Sorella di [[Nemo]]
 
 Viene da un'organizzazione alleata di [[Aldrin]] che l'ha creata assemblando varie creature marine. 
 
