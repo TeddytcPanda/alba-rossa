@@ -14,10 +14,6 @@ luoghi d'interesse:
   - "[[Taverna della Sirena Infangata]]"
   - "[[Fortezza di Dente Nero]]"
 ---
-
-Città principale di [[Cala della Lama]]
-#luogo/città
-
 ### **Zone della Città di Baraonda**
 
 #### **1. Il [[Porto delle Ombre|Porto delle Ombre]]**

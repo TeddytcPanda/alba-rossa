@@ -13,7 +13,7 @@ fazioni-collegate:
 ## Nome e Identità
 
 - **Nome:** I Mostri del Guardiano
-    
+     
 - **Soprannome o Simbolo:** Gli Abomini del Patto.  
     Simbolo: un occhio aperto circondato da tentacoli e artigli intrecciati.
     

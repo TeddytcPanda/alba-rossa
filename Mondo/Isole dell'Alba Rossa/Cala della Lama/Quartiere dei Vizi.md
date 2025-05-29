@@ -106,7 +106,7 @@ Ottima scelta! **[[Calistria]]**, **[[Norgorber]]** e **[[Cayden Cailean]]** son
 - **Taverna Sacra**: **Il Calice Spezzato** è una taverna dedicata a [[Cayden Cailean]], gestita da **Capitan Brindisi**, un ex-pirata devoto al dio. Qui si organizzano gare di bevute e si raccontano storie di eroismo.
 - **Riti e Offerte**:
   - **La Bevuta Sacra**: Un rituale in cui i fedeli bevono fino a cadere, in onore di [[Cayden Cailean]]. Chi resiste più a lungo riceve una benedizione del dio.
-  - **Offerte di Vino**: I fedeli offrono bottiglie di vino pregiato alla dea, in cambio del suo favore.
+  - **Offerte di Vino**: I fedeli offrono bottiglie di vino pregiato al dio, in cambio del suo favore.
 
 #### **Eventi Legati a [[Cayden Cailean]]**
 - **La Festa del Calice**: Una festa annuale in cui i partecipanti bevono fino a cadere, in onore di [[Cayden Cailean]]. Il vincitore riceve una benedizione del dio.
