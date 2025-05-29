@@ -13,6 +13,8 @@
     "Alleati": "multitext",
     "Nemici": "multitext",
     "Fazione": "multitext",
-    "fazioni-collegate": "multitext"
+    "fazioni-collegate": "multitext",
+    "Capitano": "multitext",
+    "Ciurma": "multitext"
   }
 }
