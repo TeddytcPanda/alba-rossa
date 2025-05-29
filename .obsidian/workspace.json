@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
+                "file": "zz_Templates/Template Nave.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forte Ferro"
+              "title": "Template Nave"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 364.5
   },
   "right": {
     "id": "60d0c2537f6a3c4d",
@@ -215,9 +215,20 @@
   },
   "active": "41805c7b4c387622",
   "lastOpenFiles": [
+    "zz_Templates/Template Divinità.md",
+    "zz_Templates/Template Nave.md",
+    "zz_Templates/Template NPC.md",
+    "Risorse utili/Combattimento Navale/Azioni Nave.md",
+    "Risorse utili/Combattimento Navale/Navi.md",
+    "Risorse utili/Combattimento Navale/Ship to Ship combat.md",
+    "Risorse utili/Combattimento Navale",
+    "zz_Templates/Template Isola.md",
+    "Mondo/Isole dell'Alba Rossa/Corno Celeste/Fortezza di Corno Celeste.md",
+    "NPC/Alleati/Tiberio Onda Salata.md",
+    "NPC/Alleati/Karlach.md",
+    "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
     "NPC/Alleati/Capitan Rottame.md",
     "NPC/Nemici/Commodoro Thane Ravenscroft.md",
-    "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
     "Risorse utili/5 Room Dungeon.md",
     "PG/Yaren.md",
     "PG/Shar.md",
@@ -231,16 +242,6 @@
     "NPC/Il Primo Custode.md",
     "NPC/Custode delle Maschere.md",
     "NPC/Neutrali/Madame Zara.md",
-    "NPC/Neutrali/Grillo il Sorridente.md",
-    "NPC/Neutrali/Fiorillia.md",
-    "NPC/Nemici/Triton.md",
-    "NPC/Nemici/Syr’Vhalak.md",
-    "NPC/Nemici/Sullivan Usargu.md",
-    "NPC/Nemici/Padre Topher.md",
-    "NPC/Nemici/Il Silente Rosso.md",
-    "NPC/Nemici/Ander Tatus.md",
-    "NPC/Nemici/Aldrin.md",
-    "NPC/Ciurma/Pio Perculo.md",
     "Mondo/Isole dell'Alba Rossa/z_Images/Le Isole dell'Alba Rossa.jpg",
     "zz_Templates",
     "Untitled/Pasted image 20250318222340.png",
@@ -259,7 +260,6 @@
     "NPC/Neutrali",
     "Mondo/Isole dell'Alba Rossa/Scogliere di Eos",
     "Mondo/Isole dell'Alba Rossa/Rocca del Kraken",
-    "Mondo/Isole dell'Alba Rossa/Rifugio del Vento",
-    "Mondo/Isole dell'Alba Rossa/Aqualungra"
+    "Mondo/Isole dell'Alba Rossa/Rifugio del Vento"
   ]
 }
