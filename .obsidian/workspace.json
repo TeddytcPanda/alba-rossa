@@ -4,25 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd1f1d125a570a1",
+        "id": "cc37c644ac537ec8",
         "type": "tabs",
         "children": [
           {
-            "id": "41805c7b4c387622",
+            "id": "56c207d4d43ba29e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz_Templates/Template Nave.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Template Nave"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 346.5
   },
   "right": {
     "id": "60d0c2537f6a3c4d",
@@ -95,17 +90,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Alleati/Capitan Rottame.md",
+                "file": "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Capitan Rottame"
+              "title": "Backlinks for Forte Ferro"
             }
           },
           {
@@ -114,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Alleati/Capitan Rottame.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Capitan Rottame"
+              "title": "Outgoing links"
             }
           },
           {
@@ -163,6 +157,16 @@
             }
           },
           {
+            "id": "5e0426813b6dcab4",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
             "id": "3636e77d90ce3079",
             "type": "leaf",
             "pinned": true,
@@ -173,37 +177,49 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "27ed39c73cd52983",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
-        "id": "ca9a848c847af67e",
+        "id": "0ae7dd23dd1c5be3",
         "type": "tabs",
         "children": [
           {
-            "id": "5e0426813b6dcab4",
+            "id": "bd9c00b80c1b4cb9",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-view",
+              "type": "initiative-tracker-creature-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 516.5,
-    "collapsed": true
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -214,9 +230,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6fcb2be7564c4595",
+  "active": "56c207d4d43ba29e",
   "lastOpenFiles": [
+    "Risorse utili/Monsters by Challenge Rating p382.md",
+    "Spell Muffa.md",
+    "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
+    "Quest/12. Il prezzo della schiavitù.md",
+    "PG/Nemo.md",
+    "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Porto del Tuono.md",
+    "NPC/Il Primo Custode.md",
+    "NPC/Custode delle Maschere.md",
+    "NPC/Nemici/Aldrin.md",
+    "Risorse utili/5 Room Dungeon.md",
     "zz_Templates/Template Divinità.md",
+    "zz_Templates/Template Fazione.md",
+    "Entità/Fiamma Nera.md",
     "zz_Templates/Template Nave.md",
     "zz_Templates/Template NPC.md",
     "Risorse utili/Combattimento Navale/Azioni Nave.md",
@@ -227,22 +255,10 @@
     "Mondo/Isole dell'Alba Rossa/Corno Celeste/Fortezza di Corno Celeste.md",
     "NPC/Alleati/Tiberio Onda Salata.md",
     "NPC/Alleati/Karlach.md",
-    "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
     "NPC/Alleati/Capitan Rottame.md",
     "NPC/Nemici/Commodoro Thane Ravenscroft.md",
-    "Risorse utili/5 Room Dungeon.md",
     "PG/Yaren.md",
     "PG/Shar.md",
-    "PG/Puggo-Yuka.md",
-    "PG/Pente.md",
-    "PG/Nemo.md",
-    "PG/Muffa.md",
-    "PG/Levi.md",
-    "Untitled/Roba.md",
-    "PG/Eve.md",
-    "NPC/Il Primo Custode.md",
-    "NPC/Custode delle Maschere.md",
-    "NPC/Neutrali/Madame Zara.md",
     "Mondo/Isole dell'Alba Rossa/z_Images/Le Isole dell'Alba Rossa.jpg",
     "zz_Templates",
     "Untitled/Pasted image 20250318222340.png",
