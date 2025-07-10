@@ -1,10 +1,21 @@
-#luogo/dungeon
+---
+tags:
+  - luogo
+  - dungeon
+---
+
 Isolotto poco a sud di [[Porto del Tuono]]. 
 Un forte con all'interno una prigione militare.
 I soldati all'interno sono più che altro dei pirati con la divisa, in quanto l'unica legge che conoscono è quella del [[Commodoro Thane Ravenscroft]].
 Da quando si è insediato lui non è mai scappato nessuno.
 Ha fatto costruire un'arena in cui fa combattere i prigionieri come gladiatori. Lui è l'ultimo scontro che devono affrontare con la promessa che in caso di vittoria sarebbero stati liberati, ma i pochissimi che sono riusciti ad arrivare ad affrontarlo non sono sopravvissuti per raccontarlo.
 Ci sono varie celle con mostri marini e strane creature, che vengono usate per farle combattere con i prigionieri
+La prigione è divisa in più piani:
+- La fortezza con porto
+- Il primo livello. Qui ci sono i prigionieri comuni e poco pericolosi. Vengono tenuti in celle da 10 persone.
+- Il secondo livello. Qui ci sono prigionieri mediamente pericolosi. Vengono tenuti in celle da 5 persone
+- Il terzo livello. Qui ci sono sia prigionieri politici che quelli particolarmente pericolosi. Vengono tenuti in celle da massimo 2 persone. Qui c'è [[Lady Mira Goodwin]]
+- Il quarto livello. Questo livello è una nave sottomarina collegata al resto della struttura chiamata [[L’Occhio del Leviatano]]. Non ci sono prigionieri, ma vengono fatti esperimenti dal [[Progetto Nautilus]]. Qui [[Commodoro Thane Ravenscroft]] si è fatto fondere con un Aboleth. 
 
 XP Budget:
 - **Low**: 5000
@@ -80,189 +91,102 @@ Nel caso accettino, due guardie li accompagnano (Umano Micos e nano Gorderio). E
 
 ---
 
-## 🔶 LIVELLO 1 SOTTERRANEO – Celle comuni (Primi reietti)
-
-> **Tono**: sopravvivenza disperata, tensione latente, umanità spezzata.
-
-### 🎭 Introduzione narrativa:
-
-_Il montacarichi geme mentre scende lentamente sotto la pietra. L'aria si fa pesante, carica dell'odore di sudore stantio, muffa e ferro ossidato. Le pareti umide sembrano chiudersi attorno a voi, graffiate da unghie e punte di coltello. Un ultimo sussulto e le grate si aprono…_
-
-_Il primo livello si apre in un corridoio largo e basso, illuminato da torce che sputano fumo acre. Ai lati, lunghe file di celle buie, ciascuna stipata oltre ogni limite umano. C’è chi giace a terra privo di forze, chi urla oscenità, chi prega in silenzio._
-
-_Due guardie vi accompagnano, sbuffando per il caldo e scambiandosi battute ciniche. Una di loro sputa per terra: "Questo è il piano dei carne da macello. Quelli che durano uno, due scontri al massimo. Gli altri… vanno giù."_
 
 ---
+# La rivolta
+### Riassunto
+Hanno combattuto le guardie e sconfitto Vorgpar. Possono far partir una rivolta che si può espandere lungo tutta la prigione in modo da dargli un vantaggio tattico.
 
-### 📍 **Celle da 10 (criminali comuni)**
+## Proposta
+Nelle stanze sotto l'arena arriva un orco alto e muscoloso per quanto visibilmente malnutrito. Si chiama **Gyord** e propone loro un piano: far scoppiare una rivolta nella prigione. Dice che conosce il posto e sa chi contattare per fare in modo che tutta la prigione insorga. Inoltre dice loro che se vogliono possono riposarsi mentre sparge la voce e fornisce una mappa approssimativa della prigione.
 
-- Spazi angusti e puzzolenti. I prigionieri si accalcano uno contro l’altro.
-    
-- Le pareti sono sporche di scritte e simboli, alcuni simili a preghiere, altri solo conti dei giorni passati.
-    
-- Alcuni prigionieri si avvicinano alla grata sperando che i PG siano compratori di libertà, altri si ritraggono come cani bastonati.
-    
+Ogni livello è collegato agli altri tramite *il montacarichi, ma in caso di rivolta viene bloccato*. Questo permette il movimento solo tramite scala, ma le scale per scendere e per salire da ogni piano sono ai **lati opposti della struttura**.
 
-#### Dettaglio scena:
+Lui farà comunque partire la rivolta ora che ne è in grado e che non c'è Vorgpar a fare la guardia a questo livello, sta a loro decidere se aiutarsi a vicenda o pestarsi i piedi.
 
-_Un uomo magro come un chiodo si aggrappa alle sbarre: "Fatemi uscire... combatterei anche oggi... vi prego..."_
+# Primo piano
+## Descrizione piano
+_Il primo piano è costruito come un labirinto di corridoi larghi e celle anguste, piene di prigionieri urlanti. L’aria è satura di sudore, sangue e muffa. I muri sono anneriti da decenni di umidità, e si vedono catene arrugginite, coperte di funghi, penzolare da ganci infissi nei soffitti.
+In tempi normali, questo livello era una sorta di “area comune” della prigione, dove si punivano i disobbedienti e si lasciavano marcire i dimenticati. Ora è teatro di una guerriglia improvvisata: urla, lamenti e clangore metallico riecheggiano ovunque. Alcuni prigionieri si sono armati di spranghe, molle spezzate, ossa. Le celle sono state forzate dall’interno o aperte da complici.
 
-_Un’altra figura, con un occhio solo e il volto coperto di cicatrici, ringhia verso il PG che lo guarda: "Tu non sei uno di loro... posso sentirlo. Ma se porti guai, ci fai ammazzare tutti."_
+## Scontri
+### Scontro boss del piano
+La rivolta è in atto e dei prigionieri stanno combattendo contro delle guardie, ma quando arrivano i sovrintendenti del piano i rivoltosi sembrano essere respinti 
+#### Nemici
+2 Cambion (1800)
+3 Berserker (450)
+#### Descrizione inizio fight
+_Appena entrate nel cuore del livello, le urla si fanno più intense. Un manipolo di prigionieri, guidati da un goblin anziano con una sciarpa rossa legata al braccio, sta combattendo contro alcune guardie. Ma qualcosa cambia._
 
----
+_Dalle scale laterali scendono due figure, alte e dal portamento signorile, i volti segnati da corna nere e occhi rossi. Si muovono con grazia in mezzo al sangue. Dietro di loro, una mezza dozzina di carcerieri fuori di sé impugnano asce, morsi e mazze: sono i Berserker. I prigionieri esitano. Qualcuno grida:_
 
-### 📍 **Reparto “selezione” per l’arena**
+> “Sono arrivati i **Sovrintendenti Azzar e Lorne**! Fuggite!”
 
-- Un cubicolo blindato da cui una guardia osserva i detenuti e segna i nomi su una lavagna.
-    
-- Al centro, una bilancia, un metro di legno e un’area per misurare “prestanza”.
-    
-- Alcuni prigionieri sono già nudi o feriti, usati come riferimento o per addestrare le bestie.
-    
+_Ma ormai è troppo tardi. Tre di loro cominciano a inseguire i prigionieri mentre scappano via, mentre le due figure diaboliche e i tre rimanenti si girano verso di voi._
+> "Mi dispiace, ma da qui non si fugge. Ne va del nostro onore!"
 
-#### Dettaglio scena:
-
-_Due prigionieri vengono spinti in avanti e messi in posa come bestiame al mercato. Il capo del piano li guarda, prende nota, annuisce e mormora: "Questo potrebbe reggere mezza bestia... l’altro forse dura cinque minuti."_
-
-_Poi si volta verso i PG: "Questi che avete portato metteteli qui, li valuteremo prima di assegnargli una stanza. Il Commodoro odia perdere tempo con scarti."_
-
-*I sergenti che dirigono questo piano si presentano come un uomo due uomini con lunghi capelli nodosi del colore della pece e . Indossano dei lunghi cappotti militari logori ma decorati, che tradisconp un passato vissuto tra mare e sangue.
-
-*Dopo aver ispezionato chi di voi si sta fingendo prigioniero, sembrano prendere una decisione: "Secondo livello!" Annuncia il primo, mentre il secondo si rivolge a voi: "Se volete potete accompagnarli in cella." Dopodichè si girano e vanno via.*
-
-*Le stesse due guardie di prima vi accompagnano nuovamente, questa volta con un'aria più scocciata della precedente. Arrivando nuovamente al montacarichi pronunciano nuovamente delle parole in infernale: **"Duabus vocibus, profundum pateat" (Con due voci, si apra l'abisso)***
-
-
-## Scontro
-Nel caso in cui si arrivi allo scontro:
-2 Cambion
-6 Berserker
-(se non sconfitti prima) 2 Pirati
-
-I cambion sono caster, rimangono a distanza e mirano ai caster preferendo i curatori
-
+#### Tesoro
+Ring of Spell Storing
 
 ---
+# Secondo Piano
+Qui gli scontri sono stati più crudeli e spietati. Dei prigionieri sono riusciti a prendere il controllo del piano, ma prendendo il controllo stanno cominciando a usare il pugno di ferro anche verso gli altri prigionieri. Alcuni di loro sono trasformati in creature marine, cedendo però ai loro istinti modificati e iniziando a mangiare chi gli sta intorno.
+## Descrizione piano
+_Appena scendete le scale metalliche, un odore ferroso e marino si fa più intenso. Il secondo piano è immerso in una penombra verde-bluastra, data da cristalli luminescenti incastonati nel soffitto. I muri sono imbrattati di sangue, urina e parole incise con unghie e coltelli: “**giustizia**”, “**punizione**”, “**fondo**”.
+Qui le celle sono più piccole, più resistenti, ma molte sono state **aperte con la forza**. Si sentono urla in lontananza, colpi secchi, e il suono di carne dilaniata. I **prigionieri hanno preso il controllo**, ma la situazione è sul punto di **sfuggire di mano**. Alcuni di loro sono **sopravvissuti agli esperimenti del Progetto Nautilus** e ora stanno crollando nella follia, trasformandosi in mostri affamati.
 
-### 📍 **Infermeria di fortuna**
+## Scontri
+### Scontro boss del piano
+Quando vede i PG, si irrigidisce. Li crede **una nuova minaccia al potere appena ottenuto** — o degli emissari del Leviatano.
 
-- Una stanza fetida con letti di legno, lenzuola strappate e barattoli pieni di medicinali o cose che ci somigliano.
-    
-- Il "medico" è un **goblin dal camice sudicio**, che fischietta mentre cuce una ferita su un uomo svenuto.
-    
-- I pazienti sono più cadaveri in attesa che malati.
-    
+#### Nemici
+Budget: 6000
+Oni (2900)
+Otyugh (1800)
+2 Ogre (450)
 
-#### Dettaglio scena:
+#### Descrizione inizio fight
+_Arrivate in una grande sala centrale, con il pavimento coperto di sangue fresco. Un gruppo di prigionieri, sporchi e armati con armi improvvisate, sta tenendo un discorso a un gruppo di detenuti inginocchiati._
 
-_Il goblin si gira appena vede i PG: "Non toccate nulla. Il pus è mio."_
+_Un mezzelfo muscoloso e squilibrato è lì davanti a tutti. Lo vedete con una mascella parzialmente mutata, branchie evidenti sul collo e occhi da pesce senza palpebre. Mentre ha in una mano la testa mozzata dell’ultimo sorvegliante e nell'altra una torcia che lo fa apparire se possibile ancora più mostruoso, lo sentite gridare verso i detenuti._
 
-_Sorride con tutti i denti gialli: "Se volete qualche organo di riserva... ho qualche pezzo buono. Ma li tengo d’occhio: un cuore fresco vale più dell’oro laggiù."_
+> "ORA GUARDATECI! NOI DECIDIAMO CHI VIVE E CHI MUORE! Chi ha fatto esperimenti su di noi? Chi ci ha spezzato? E ora… chi comanderà?"
 
----
+_Girandosi verso di voi vi osserva, ma vedendo Levi e Nemo sorride di un ghigno malvagio_
+> "Ci avete portato altre vittime o altri servitori?"
 
-### 📍 **9. Sala interrogatori / tortura “soft”**
+_Si avvicina a voi lentamente, mentre sentite un viscido ciabattare a ogni suo passo dato da un misto di sangue e liquido per torce.
 
-- Pavimento in pietra, uno scarico centrale, catene appese e una sedia con cinghie.
-    
-- Qui non si estorcono solo segreti: si spezzano animi.
-    
-- Una mezzelfa magra e dai modi gentili è l'interrogatrice — **Signora Vessa** — con una voce dolce e mani guantate.
-    
+#### Tesoro
+Se se li fanno **amici**, i mutati dicono loro che nel piano sotterraneo hanno portato una bestia enorme e che il Commodoro si sta sottoponendo egli stesso ai rituali e dicono loro di stare lontani dall'acqua in quanto sembra ci sia qualcosa di strano qui intorno.
+Gli danno anche le indicazioni per poter raggiungere i laboratori nella nave. Non si avventureranno ai piani inferiori perchè lì le guardie sono troppo pericolose e anzi consigliano ai pg 
 
-#### Dettaglio scena:
-
-_La mezzelfa inclina la testa osservando i PG. "Oh, non siete carne da domande... siete carne con ordini. Siete fortunati. Noi qui… parliamo. A lungo. E chi urla di più non è sempre quello legato alla sedia."_
-
-_Poi aggiunge con leggerezza: "Se cercate qualcuno, basta chiedere. Io so chi è ancora intero."_
-
----
-
-### 🎲 Interazioni e tensione:
-
-- **Se i PG si fingono guardie**: alcuni prigionieri si ribellano verbalmente o tentano di attirarli per attaccarli, altri cercano di mendicare informazioni sulla propria sorte.
-    
-- **Nemo riconosce Leonsael** chiuso in una delle celle da 10. È ferito, irriconoscibile, con uno sguardo assente e un braccio malamente amputato. Quando lo vede, sussurra con voce roca: _"Ti avevo detto che il mare era più misericordioso…"_
-    
-- **Gorderio e Micos** (le due guardie) si scambiano battute morbose sui prossimi combattimenti e su quali prigionieri "meritano" di essere dati in pasto alle bestie.
-    
+Se invece li **sconfiggono**, tra i detenuti c'è uno che mentre stava pianificando la fuga era riuscito a trovare il modo di infilarsi nei condotti di areazione e di muoversi nel terzo piano in modo da non essere visto. Propone ai PG di accompagnarli e fargli vedere il modo.
 
 ---
+# Terzo Piano
+Il terzo piano è ancora in mano alle guardie, anche se sembra più una foresta sotterranea in cui i prigionieri vengono appesi agli alberi e la foresta stessa sembra fare la guardia, oltre a non morti che attaccano indistintamente qualsiasi essere vivente.
 
-### 🎭 Uscita dal livello:
+## Descrizione piano
+_Appena si scende nel terzo piano, l’aria cambia drasticamente. È **pura umidità e decomposizione**. Le pareti sembrano fatte di corteccia viva e muschio, intrecciate a travi di pietra ormai inghiottite dalla crescita. **Radici pendono dal soffitto** come corde e i pavimenti sono interrotti da stagni scuri, muffe e funghi giganti che pulsano debolmente a ogni rumore.
+Non è chiaro dove finisca la **struttura** e dove inizi la **vegetazione**. La zona centrale del piano è occupata da una **radura malata**, con **alberi deformi** i cui rami contorti tengono sospesi **corpi ancora vivi**, appesi per le caviglie o le braccia. Alcuni si muovono e gemono, altri sono silenziosi, svuotati. La vegetazione **risponde ai rumori**, come se fosse viva o telepaticamente collegata.
 
-Per scendere oltre questo piano, è necessario l’autorizzazione diretta del Commodoro **oppure** ottenere il secondo “sigillo vocale” (usato nel rituale per attivare il montacarichi) da **un altro ufficiale** o “rubarlo” con astuzia o intimidazione.
-
----
-
-Fammi sapere se vuoi:
-
-- Una mappa (schematica o griglia)
-    
-- Stat block personalizzati per Gorderio, Micos o Signora Vessa
-    
-- Una side quest legata a Leonsael
-    
-- Uno scontro opzionale (es. sommossa, imboscata in infermeria, prigionieri liberati)
+## Scontri
+### Scontro boss del piano
 
 
+#### Nemici
+Budget: 6000
+2 Violet Fungus Neecrohulk (2900)
 
 
----
+#### Descrizione inizio fight
+_I PG raggiungono il cuore del piano: una vasta apertura circolare dove un tempo c’era un’arena interna. Ora, però, è un **anfiteatro naturale** invaso da rampicanti, rami e funghi color violaceo che si aprono e richiudono lentamente, come se respirassero._
 
-### 🔥 LIVELLO 2 – Celle speciali e “intrattenimento”
+_Al centro, due **enormi funghi viola e contorti** spuntano da tronchi ricurvi e palpitanti. Attorno a loro, **cadaveri rianimati da muffe** e **brandelli di muscoli intrecciati a radici** si agitano. I Violet Fungus Necrohulk si muovono lentamente, ma in modo coordinato, come se fossero le estensioni di un’unica coscienza vegetale._
 
-Tema: **Mostri e giochi crudeli**
+#### Tesoro
+Da uno dei Necrohulk cade un Necklace of Prayer Beads
 
-- **11. Celle da 5 (criminali pericolosi / gladiatori sopravvissuti)**
-    
-- **12. Gabbie per mostri marini / ibridi** → usati nei combattimenti.
-    
-- **13. Pozzo inondabile / tunnel sommerso** → collegamento con il mare; usato per far entrare bestie o scappare.
-    
-- **14. Deposito corpi / “buttafuori”** → i resti vengono smaltiti qui.
-    
-- **15. Camera delle scommesse segreta** → soldati e ospiti VIP scommettono sulle lotte.
-    
 
----
 
-### 🧪 LIVELLO 3 – Esperimenti e veri orrori
-
-Tema: **Progetto Nautilus, magia, aberrazioni**
-
-- **16. Celle da 2 (prigionieri politici, maghi, sopravvissuti speciali)**
-    
-- **17. Laboratorio magico / vivisezione** → esperimenti arcani con sangue di mostro.
-    
-- **18. Archivio / biblioteca segreta** → documenti sul Progetto Nautilus, diario del Commodoro.
-    
-- **19. Forgia mistica** → usata per creare oggetti con parti di creature marine.
-    
-- **20. Sala del rituale o vasca mutagena** → collegata a un antico potere abissale?
-    
-
----
-
-### 💀 BOSS AREA – La Fossa del Commodoro
-
-Tema: **Duello finale – Gladiatore Supremo**
-
-- **21. Arena privata sotterranea (con accesso controllato)**
-    
-- Il Commodoro affronta i sopravvissuti personalmente, con potenziamenti (magici? mutazioni?) e gloria sanguinaria.
-    
-- La sua promessa è: “Se vincete, siete liberi.” (ma nessuno ci è mai riuscito).
-    
-
----
-
-## ✍️ GUIDA PER LO SVILUPPO DINAMICO
-
-| Obiettivo del piano | Tipi di stanza                | Tono                               | Elementi chiave                      |
-| ------------------- | ----------------------------- | ---------------------------------- | ------------------------------------ |
-| Piano Superiore     | Uffici, caserma, porto, arena | Ordine corrotto, tensione nascosta | Dialoghi, trappole sociali           |
-| Livello 1           | Celle comuni, selezione       | Disperazione, bullismo             | Interazione con PNG prigionieri      |
-| Livello 2           | Mostri, giochi, spettacolo    | Intrattenimento crudele            | Gabbie, scontri, ambienti marini     |
-| Livello 3           | Esperimenti, magia, misteri   | Orrore, segreti proibiti           | Esplorazione, documenti, boss minori |
-| Boss Arena          | Arena privata, tesoro         | Epico, violento, definitivo        | Duello, decisioni finali             |

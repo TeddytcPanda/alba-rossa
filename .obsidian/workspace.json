@@ -11,10 +11,14 @@
             "id": "56c207d4d43ba29e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Forte Ferro"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 201.5
   },
   "right": {
     "id": "60d0c2537f6a3c4d",
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Forte Ferro"
             }
           },
           {
@@ -213,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,16 +238,17 @@
   },
   "active": "56c207d4d43ba29e",
   "lastOpenFiles": [
-    "Risorse utili/Monsters by Challenge Rating p382.md",
-    "Spell Muffa.md",
+    "NPC/Il Primo Custode.md",
     "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
+    "Risorse utili/Monsters by Challenge Rating p382.md",
+    "Quest/L’Occhio del Leviatano.md",
+    "Risorse utili/5 Room Dungeon.md",
+    "Spell Muffa.md",
     "Quest/12. Il prezzo della schiavitù.md",
     "PG/Nemo.md",
     "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Porto del Tuono.md",
-    "NPC/Il Primo Custode.md",
     "NPC/Custode delle Maschere.md",
     "NPC/Nemici/Aldrin.md",
-    "Risorse utili/5 Room Dungeon.md",
     "zz_Templates/Template Divinità.md",
     "zz_Templates/Template Fazione.md",
     "Entità/Fiamma Nera.md",
@@ -258,7 +265,6 @@
     "NPC/Alleati/Capitan Rottame.md",
     "NPC/Nemici/Commodoro Thane Ravenscroft.md",
     "PG/Yaren.md",
-    "PG/Shar.md",
     "Mondo/Isole dell'Alba Rossa/z_Images/Le Isole dell'Alba Rossa.jpg",
     "zz_Templates",
     "Untitled/Pasted image 20250318222340.png",
