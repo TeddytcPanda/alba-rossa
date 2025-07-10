@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1740388014513,
+      "lastAccessed": 1749582441543,
       "markers": [
         {
           "id": "ID_d91b5a5bbbd9",
@@ -173,13 +173,43 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_a839587a289a",
+          "type": "default",
+          "loc": [
+            871.078125,
+            1026.5
+          ],
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_785a0a393aeb",
+          "type": "default",
+          "loc": [
+            905.078125,
+            798.5
+          ],
+          "layer": "%5B%5BLe%20Isole%20dell'Alba%20Rossa.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
