@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd1f1d125a570a1",
+        "id": "2d1904534d287b76",
         "type": "tabs",
         "children": [
           {
-            "id": "41805c7b4c387622",
+            "id": "15bd0a4c8b9aa1a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risorse utili/Combattimento Navale/Ship to Ship combat.md",
+                "file": "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ship to Ship combat"
-            }
-          },
-          {
-            "id": "51124cc141e01a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Risorse utili/Combattimento Navale/Navi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Navi"
-            }
-          },
-          {
-            "id": "bf2c9a4620e05baa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S2S.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "S2S"
-            }
-          },
-          {
-            "id": "f69d90b67442cd16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Risorse utili/Combattimento Navale/Azioni Nave.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Azioni Nave"
-            }
-          },
-          {
-            "id": "7c867060120b39f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isole dell'Alba Rossa"
+              "title": "Forte Ferro"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risorse utili/Combattimento Navale/Azioni Nave.md",
+                "file": "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Azioni Nave"
+              "title": "Backlinks for Forte Ferro"
             }
           },
           {
@@ -176,6 +119,16 @@
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Capitan Rottame"
+            }
+          },
+          {
+            "id": "5e0426813b6dcab4",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -199,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risorse utili/Combattimento Navale/Azioni Nave.md",
+                "file": "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Azioni Nave"
+              "title": "Outline of Forte Ferro"
             }
           },
           {
@@ -229,21 +182,36 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "1525759a719b2f67",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "ca9a848c847af67e",
+        "id": "d0280d4949d20b92",
         "type": "tabs",
         "children": [
           {
-            "id": "5e0426813b6dcab4",
+            "id": "0ba444c87bf51f2a",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-view",
+              "type": "initiative-tracker-creature-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
@@ -257,7 +225,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -268,13 +235,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f69d90b67442cd16",
+  "active": "5e0426813b6dcab4",
   "lastOpenFiles": [
-    "Risorse utili/Combattimento Navale/Ship to Ship combat.md",
-    "S2S.md",
-    "Risorse utili/Combattimento Navale/Navi.md",
-    "Risorse utili/Combattimento Navale/Azioni Nave.md",
     "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
+    "Risorse utili/Combattimento Navale/Navi.md",
+    "S2S.md",
+    "Risorse utili/Combattimento Navale/Azioni Nave.md",
+    "Risorse utili/Combattimento Navale/Ship to Ship combat.md",
     "Fazioni/Macellai Silenziosi.md",
     "Untitled.md",
     "Fazioni/Mostri del Guardiano.md",
