@@ -15,3 +15,9 @@ Viene da un'organizzazione alleata di [[Aldrin]] che l'ha creata assemblando var
 Ha l'aspetto di una composizione di vari corpi di pesce in forma umanoide. Le parti più riconsocibili sono di un'orca assassina. 
 
 Levi era originariamente una goliath proveniente dai giganti del ghiaccio. Si chiamava una volta [[Levi|Yverlian]] ed era la sorella della capitana dei [[Fratelli del Vento del Nord]]. 
+
+In realtà è composta da pezzi di un Leviatano minore e ha un Leviatano gemello che viaggia nel mare.
+
+# Equip
+[[Lancia ammazza-draghi]]
+[[Armatura del Leviatano]]

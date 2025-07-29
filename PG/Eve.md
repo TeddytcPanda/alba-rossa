@@ -71,3 +71,6 @@ abbandonata. Qui incontra [[Yaren]]. (incontro con [[Yaren]] da rivedere)
 	- Insieme a [[Shar]] sono i discendenti delle famiglia reali di [[Aqualungra]] e entrambi maledetti da [[Dvaros]]
 	- Innamorata di [[Yaren]]
 	- Si potrebbe sfruttare la possibilità di creare oggetti magici per farli andare sott'acqua e modificare la nave
+
+# Equip
+Revolver +1

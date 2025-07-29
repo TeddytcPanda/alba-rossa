@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cc37c644ac537ec8",
+        "id": "b999cbb4c043c840",
         "type": "tabs",
         "children": [
           {
-            "id": "56c207d4d43ba29e",
+            "id": "189b068e2ac20fa6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Forte Ferro"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 387.5
   },
   "right": {
     "id": "60d0c2537f6a3c4d",
@@ -236,10 +232,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56c207d4d43ba29e",
+  "active": "189b068e2ac20fa6",
   "lastOpenFiles": [
-    "NPC/Il Primo Custode.md",
+    "Items/z_Images/photo_2025-07-29_17-14-09.jpg",
+    "Items/z_Images/photo_2025-07-29_17-09-56.jpg",
+    "Items/z_Images/Pasted image 20250729174036.png",
+    "Items/z_Images/Pasted image 20250729164905.png",
+    "Items/z_Images/battlemap___water_temple_first_circle_by_mizakiiarte_dhd7qce-fullview.jpg",
+    "Items/photo_2025-07-29_17-14-09.jpg",
+    "Items/photo_2025-07-29_17-09-56.jpg",
+    "Items/Pasted image 20250729174036.png",
+    "Items/Pasted image 20250729164905.png",
+    "Items/battlemap___water_temple_first_circle_by_mizakiiarte_dhd7qce-fullview.jpg",
+    "PG/Levi.md",
+    "Items/Tentacle Whip.md",
+    "Pasted image 20250729174036.png",
+    "Items/Armatura del Leviatano.md",
+    "Items/Lancia ammazza-draghi.md",
+    "zz_Templates/Template Item.md",
+    "PG/Eve.md",
     "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
+    "NPC/Nemici/Commodoro Thane Ravenscroft.md",
+    "Clippings/Download.md",
+    "Untitled/Untitled.md",
+    "Untitled/Untitled 1.md",
+    "Untitled.md",
+    "S2S.md",
+    "Clippings",
+    "NPC/Il Primo Custode.md",
     "Risorse utili/Monsters by Challenge Rating p382.md",
     "Quest/L’Occhio del Leviatano.md",
     "Risorse utili/5 Room Dungeon.md",
@@ -251,38 +271,14 @@
     "NPC/Nemici/Aldrin.md",
     "zz_Templates/Template Divinità.md",
     "zz_Templates/Template Fazione.md",
-    "Entità/Fiamma Nera.md",
-    "zz_Templates/Template Nave.md",
-    "zz_Templates/Template NPC.md",
-    "Risorse utili/Combattimento Navale/Azioni Nave.md",
-    "Risorse utili/Combattimento Navale/Navi.md",
-    "Risorse utili/Combattimento Navale/Ship to Ship combat.md",
     "Risorse utili/Combattimento Navale",
-    "zz_Templates/Template Isola.md",
-    "Mondo/Isole dell'Alba Rossa/Corno Celeste/Fortezza di Corno Celeste.md",
-    "NPC/Alleati/Tiberio Onda Salata.md",
-    "NPC/Alleati/Karlach.md",
-    "NPC/Alleati/Capitan Rottame.md",
-    "NPC/Nemici/Commodoro Thane Ravenscroft.md",
-    "PG/Yaren.md",
-    "Mondo/Isole dell'Alba Rossa/z_Images/Le Isole dell'Alba Rossa.jpg",
     "zz_Templates",
-    "Untitled/Pasted image 20250318222340.png",
-    "_a9d987a2-7af3-40c7-b1a4-0c1a9ab63f52.jpg",
-    "Untitled/Pasted image 20250413224833.png",
     "Risorse utili/Heliana's Guide to Monster Hunting (v2.02).pdf",
-    "Untitled/Pasted image 20250221091841.png",
     "Untitled",
-    "Untitled/Pasted image 20250221091905.png",
-    "Untitled/Pasted image 20250221091938.png",
-    "Untitled/Pasted image 20250221100015.png",
-    "Untitled/Pasted image 20250221095634.png",
-    "Untitled/Pasted image 20250221095403.png",
     "NPC/Neutral",
     "Risorse utili",
     "NPC/Neutrali",
     "Mondo/Isole dell'Alba Rossa/Scogliere di Eos",
-    "Mondo/Isole dell'Alba Rossa/Rocca del Kraken",
-    "Mondo/Isole dell'Alba Rossa/Rifugio del Vento"
+    "Mondo/Isole dell'Alba Rossa/Rocca del Kraken"
   ]
 }
