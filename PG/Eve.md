@@ -1,9 +1,9 @@
 # Eve Octopus II
 
 ## Informazioni di Base
-- **Classe**: Artificere - Alchimista
+- **Classe**: Artificere - Fabbro da Battaglia
 - **Razza**: Uomo Pesce (Polpo) - Elfo del Mare maledetto
-- **Livello**: 3
+- **Livello**: 6
 - **Background**: Nobile
 - **Genere**: F
 
@@ -39,38 +39,14 @@ passione. Quindi, decidono insieme di scappare. Durante la fuga però vengono tr
 alcune guardie e [[Sinhat Mirastra|Sinhat]] si sacrifica rimanendo nel regno e dando a Eve la possibilità di una
 nuova vita. Ad un certo punto Eve si ritrova sulla terra ferma. Un'isola non molto lontana dal suo
 regno in realtà. Spaesata e intimorita, si fa coraggio e trova una piccola casetta apparentemente
-abbandonata. Qui incontra [[Yaren]]. (incontro con [[Yaren]] da rivedere)
-## Combattimento
-- **Ruolo**: 
-- **Tattiche più utilizzate**: 
-- **Abilità/Spell più utilizzate**: 
-
-## Equipaggiamento
-- **Armi**: 
-- **Armature**: 
-- **Consumabili**: 
-	- Pozione di Guarigione (art.)
-- **Oggetti Magici**: 
-- **Oggetti Magici Attuned**: 
-
-## Relazioni
-- PG:
-	- [[Shar]]: Collegati dalla maledizione di [[Dvaros]]
-	- [[Pente]]:
-	- [[Muffa]]:
-	- [[Puggo-Yuka]]:
-	- [[Yaren]]:
-	- [[Axel]]:
-- **Alleati**: 
-- **Nemici**: 
-- **Contatti**: 
-	- [[Casata Octopus]]: la sua famiglia
+abbandonata. Qui incontra [[Yaren]] che la rapisce insieme al suo gruppo di mercenari e lla porta in u8na torre dove viene sottoposta a un rituale dopo il quale si ritrovano solamente lei e Yaren. Dopo questa esperienza si innamorano.
 
 ## Note
 - **Note Aggiuntive**: 
 	- Insieme a [[Shar]] sono i discendenti delle famiglia reali di [[Aqualungra]] e entrambi maledetti da [[Dvaros]]
 	- Innamorata di [[Yaren]]
 	- Si potrebbe sfruttare la possibilità di creare oggetti magici per farli andare sott'acqua e modificare la nave
+	- La storia con [[Yaren]] è finita. Ha avuto un momento con [[Shar]], ma anche con lui è finita poichè Eve voleva mantenere la relazione molto più frivola, mentre Shar pensava al matrimonio.
 
 # Equip
 Revolver +1

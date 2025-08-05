@@ -11,13 +11,32 @@
             "id": "189b068e2ac20fa6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mondo/Isole dell'Alba Rossa/Aqualungra/Aqualungra.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aqualungra"
+            }
+          },
+          {
+            "id": "bd74c0f3092c8fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quest/Il Ritorno nelle Profondità.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Il Ritorno nelle Profondità"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 382.5
   },
   "right": {
     "id": "60d0c2537f6a3c4d",
@@ -232,8 +251,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "189b068e2ac20fa6",
+  "active": "bd74c0f3092c8fc1",
   "lastOpenFiles": [
+    "Mondo/Isole dell'Alba Rossa/Aqualungra/Aqualungra.md",
+    "Quest/Il Ritorno nelle Profondità.md",
+    "PG/Eve.md",
+    "NPC/Alleati/Sinhat Mirastra.md",
+    "Regno di Aqualungra.jpg",
+    "Mondo/Isole dell'Alba Rossa/Aether/Aether.md",
+    "Mondo/Isole dell'Alba Rossa/Aether/Cittadella di Aether.md",
+    "Mondo/Isole dell'Alba Rossa/Isole dell'Alba Rossa.md",
+    "PG/z_Images/Yuka con Puggo.jpg",
+    "Mondo/Isole dell'Alba Rossa/z_Images/assassin's-creed-odyssey-atlantis-map.jpg",
     "Items/z_Images/photo_2025-07-29_17-14-09.jpg",
     "Items/z_Images/photo_2025-07-29_17-09-56.jpg",
     "Items/z_Images/Pasted image 20250729174036.png",
@@ -241,16 +270,11 @@
     "Items/z_Images/battlemap___water_temple_first_circle_by_mizakiiarte_dhd7qce-fullview.jpg",
     "Items/photo_2025-07-29_17-14-09.jpg",
     "Items/photo_2025-07-29_17-09-56.jpg",
-    "Items/Pasted image 20250729174036.png",
-    "Items/Pasted image 20250729164905.png",
-    "Items/battlemap___water_temple_first_circle_by_mizakiiarte_dhd7qce-fullview.jpg",
     "PG/Levi.md",
     "Items/Tentacle Whip.md",
-    "Pasted image 20250729174036.png",
     "Items/Armatura del Leviatano.md",
     "Items/Lancia ammazza-draghi.md",
     "zz_Templates/Template Item.md",
-    "PG/Eve.md",
     "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Forte Ferro.md",
     "NPC/Nemici/Commodoro Thane Ravenscroft.md",
     "Clippings/Download.md",
@@ -266,11 +290,6 @@
     "Spell Muffa.md",
     "Quest/12. Il prezzo della schiavitù.md",
     "PG/Nemo.md",
-    "Mondo/Isole dell'Alba Rossa/Isola di Porto del Tuono/Porto del Tuono.md",
-    "NPC/Custode delle Maschere.md",
-    "NPC/Nemici/Aldrin.md",
-    "zz_Templates/Template Divinità.md",
-    "zz_Templates/Template Fazione.md",
     "Risorse utili/Combattimento Navale",
     "zz_Templates",
     "Risorse utili/Heliana's Guide to Monster Hunting (v2.02).pdf",
