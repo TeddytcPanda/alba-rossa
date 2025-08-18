@@ -61,4 +61,4 @@ All'interno del regno si sono create 3 fazioni principali:
 Il circolo esterno è composto da colline che viaggiano in una barriera corallina. Al centro c'è **Lago Duria**, la capitale, l'unica città stabile del regno. 
 
 # Sessioni a Aqualungra
-[[Il Ritorno nelle Profondità]]
+[[1. Il Ritorno nelle Profondità]]
