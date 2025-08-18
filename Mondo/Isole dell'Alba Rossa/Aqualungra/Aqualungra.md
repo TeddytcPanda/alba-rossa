@@ -16,7 +16,7 @@ Il popolo è composto principalmente da **Uomini Pesce**. Gli umani e il resto d
 
 ## Governo
 Monarchia assoluta.
-Oltre al re ci sono 4 Duchi che gestiscono vari aspetti del regno, anche se ultimamente il re sta accentrando i poteri su se stesso.
+Oltre al re ci sono 7 Duchi che gestiscono vari aspetti del regno, anche se ultimamente il re sta accentrando i poteri su se stesso.
 
 ### Famiglia Reale
 #### Re Elashor
@@ -36,7 +36,7 @@ Il suo compito è registrare tutto quello che accade, ricercare quello che è ac
 #### Pittura
 Si occupa dei rapporti con gli altri regni e in generale degli ***Affari Esteri***
 
-#### Musica
+#### Musica - Ellywick Arvannis
 ***Magia***
 
 #### Poesia
