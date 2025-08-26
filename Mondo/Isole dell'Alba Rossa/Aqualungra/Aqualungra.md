@@ -4,7 +4,7 @@ tags:
   - sottomarino
   - stato
 ---
-![[assassin's-creed-odyssey-atlantis-map.jpg]]
+3![[assassin's-creed-odyssey-atlantis-map.jpg]]
 
 ![[Regno di Aqualungra.jpg]]
 
@@ -30,8 +30,9 @@ I duchi sono legati a 7 arti diverse: Architettura, Scultura, Pittura, Musica, P
 #### Architettura
 Gestisce tutto ciò che riguarda le ***infrastrutture*** del regno. Nonostante l'importante compito non è molto di rilievo fra gli altri poiché è tutto composto da tribù nomadi.
 
-#### Scultura
+#### Scultura - Erky Mishann
 Il suo compito è registrare tutto quello che accade, ricercare quello che è accaduto. Si occupa principalmente della ***Storia***
+(celdor mishann)
 
 #### Pittura
 Si occupa dei rapporti con gli altri regni e in generale degli ***Affari Esteri***
@@ -45,8 +46,9 @@ Occupa il ruolo di ***Primo Consigliere del Re***
 #### Danza
 ***Guerra***, al momento questa posizione è *vuota* e controllata direttamente dal re. Era detenuta dal casato dei Mirastra, ma dopo che [[Sinhat Mirastra|Sinhat]] ha aiutato [[Eve]] a scappare il loro titolo di duchi è stato tolto.
 
-#### Teatro
+#### Teatro - Quisa Jara
 ***Comunicazione***
+(Sileste Jara)
 
 #### Cucina
 ***Economia*** e **distribuzione delle risorse**
