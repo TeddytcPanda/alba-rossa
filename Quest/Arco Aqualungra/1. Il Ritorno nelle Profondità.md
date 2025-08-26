@@ -87,7 +87,7 @@ Salendo al livello medio, si aprono quartieri nobiliari meno prestigiosi, teatro
 Al livello superiore, avvolto in un alone di mistero e potere, svetta il **palazzo reale**. Immerso in giardini sommersi di alghe luminose e protetto da statue di antiche divinità marine, il palazzo è un capolavoro di architettura organica, dove la pietra viva si fonde con la madreperla e il corallo, creando sale immacolate decorate da mosaici che raccontano la storia del regno. Le grandi finestre si aprono sul Lago Duria, offrendo una vista mozzafiato sulle acque placide e sulle navi che viaggiano silenziose come ombre.
 
 
-## Incontro sociale: Il Duca della Scultura di Aqualungra
+## Incontro sociale: Il Duca della Scultura di Aqualungra - Erky Mishann
 
 ### Aspetto e Caratteristiche Fisiche
 
