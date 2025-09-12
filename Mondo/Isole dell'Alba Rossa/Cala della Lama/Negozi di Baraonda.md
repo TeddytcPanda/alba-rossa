@@ -1,3 +1,8 @@
+---
+tags:
+  - luogo
+  - mercante
+---
 #luogo/città/negozi [[Cala della Lama]][[Baraonda]]
 
 # 1.  Negozi di [[Porto delle Ombre|Porto delle Ombre]]

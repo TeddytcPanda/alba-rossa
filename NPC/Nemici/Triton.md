@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 # Rathal Triton
 
 ## Informazioni di Base

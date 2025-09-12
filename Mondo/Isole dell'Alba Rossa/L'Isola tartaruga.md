@@ -1,3 +1,8 @@
+---
+tags:
+  - appunti
+  - sessione
+---
 Di seguito trovi una proposta narrativa e degli spunti per gestire l'incontro nell'isola tartaruga, in cui il momento clou sarà la trasformazione di Yuka e l'opportunità per gli altri PG di commentare e condividere le proprie esperienze con Puggo. La scena è pensata per essere un momento di forte drammaticità e roleplay, in cui si intrecciano il passato travagliato di Yuka, il patto spirituale con [[Yurami]] e la redenzione attraverso la purificazione.
 
 ---

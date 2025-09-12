@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 **Razza:** Nano
 
 **Classe:** Bardo (con qualche tratto da ladro, forse un po’ disonesto)

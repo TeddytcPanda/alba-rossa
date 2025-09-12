@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+    order:
+      - file.name
+      - tags
+  - type: cards
+    name: View
+    cardSize: 190
+    image: note.tags

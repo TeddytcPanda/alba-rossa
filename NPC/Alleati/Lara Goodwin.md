@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 #NPC/alleato
 # Lara Goodwin 
 

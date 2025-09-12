@@ -1,3 +1,10 @@
+---
+tags:
+  - luogo
+  - città
+  - stato
+  - isola
+---
 #luogo/isola 
 # **Porto del Tuono**
 ### **1. Forma e Geografia**

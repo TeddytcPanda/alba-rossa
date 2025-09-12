@@ -1,3 +1,7 @@
+---
+tags:
+  - PG
+---
 # Shar Selachimorpha
 
 ## Informazioni di Base
@@ -30,7 +34,7 @@
 - PG:
 	- [[Pente]]:
 	- [[Muffa]]:
-	- [[Puggo-Yuka]]:
+	- [[Yuka]]:
 	- [[Yaren]]:
 	- [[Eve]]:
 	- [[Axel]]:

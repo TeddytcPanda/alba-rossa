@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 **Nome completo**: Karlach la Spezzacatene  
 **Razza**: Tiefling  
 **Ruolo**: Membro del Triumvirato di [[Baraonda]]

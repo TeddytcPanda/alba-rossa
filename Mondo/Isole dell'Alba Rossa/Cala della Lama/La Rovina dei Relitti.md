@@ -1,3 +1,8 @@
+---
+tags:
+  - luogo
+  - quartiere
+---
 
 #luogo/città/quartiere [[Cala della Lama]][[Baraonda]]
 La **Rovina dei Relitti** è una delle zone più affascinanti e pericolose di **[[Baraonda]]**, un luogo dove le navi danneggiate o affondate sono state trascinate dalle correnti e abbandonate, creando un labirinto di legni marci, scafi spezzati e tesori nascosti. Quest'area è un mix tra un cimitero navale e un rifugio per i reietti della società, dove pirati, contrabbandieri e creature marine trovano riparo. Ecco una descrizione dettagliata di questa zona:

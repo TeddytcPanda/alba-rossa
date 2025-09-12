@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 Un Orco alto, muscoloso e estremamente crudele. Dopo aver partecipato alla conquista di [[Kah'Tha'Nha]], ha deciso di volersi creare lui stesso un posto in cui poter regnare, quindi ha intrapreso il viaggio verso l'arcipelago dell'Alba Rossa e, stabilendosi a [[Porto del Tuono]], ha iniziato un regime di terrore sui sobborghi della città.
 In realtà è in combutta con [[Aldrin]] per potersi arricchire e sta aiutando l'impero nell'invasione di [[Porto del Tuono]].
 Risiede nel Trono Basso, sotto il quale si apre un sistema di tunnel scavati dalle persone dei sobborghi.

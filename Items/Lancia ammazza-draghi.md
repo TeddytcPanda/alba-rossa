@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+  - arma
 quest: "[[Castello di Eldrenn]]"
 ---
 # Immagine
@@ -20,3 +21,4 @@ Lancia creata per uccidere il drago nero [[Syr’Vhalak]] nel [[Castello di Eldr
 Il design dell'arma era di un antico fabbro nano che aspettava che qualcuno completasse il suo capolavoro per poter passare a miglior vita. Dopo che Eve l'ha effettivamente fatto è riuscito a liberare la sua anima.
 
 ---
+![[Lancia ammazza draghi.pdf]]

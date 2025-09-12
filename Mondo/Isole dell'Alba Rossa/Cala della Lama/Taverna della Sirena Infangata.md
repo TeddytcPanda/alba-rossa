@@ -1,3 +1,9 @@
+---
+tags:
+  - luogo
+  - mercante
+  - taverna
+---
 #luogo/città/taverna [[Porto delle Ombre]][[Baraonda]][[Cala della Lama]]
 **Aspetto Esterno**:  
 - Una vecchia nave mercantile incastrata tra due scogli, trasformata in taverna. L’insegna è una sirena di legno ricoperta di fango e conchiglie.  

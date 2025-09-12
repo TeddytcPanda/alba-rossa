@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 #### **Gorak "Il Saggio della Guerra"** _(Guerriero e stratega marziale supremo)_
 
 - **Razza**: Orco

@@ -1,3 +1,8 @@
+---
+tags:
+  - NPC
+  - ciurma
+---
 # Gyoffard 
 
 ## Informazioni di Base

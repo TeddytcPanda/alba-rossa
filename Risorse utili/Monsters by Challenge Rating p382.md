@@ -1,3 +1,7 @@
+---
+tags:
+  - Infogenerali
+---
 
 ## CR 0 (0 XP)
 Awakened Shrub

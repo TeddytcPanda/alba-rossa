@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 ## Informazioni di Base
 - **Ruolo nella Storia**: Nemico
 - **Razza**: Gnomo

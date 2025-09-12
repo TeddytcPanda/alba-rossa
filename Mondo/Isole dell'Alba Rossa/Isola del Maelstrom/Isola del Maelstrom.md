@@ -1,3 +1,8 @@
+---
+tags:
+  - luogo
+  - isola
+---
 #luogo/isola 
 # **Isola del Maelstrom**
 L'isola del Maelstrom, con il suo vulcano attivo e il maelstrom turbolento al largo della costa, è un luogo di grande potenza e pericolo, ideale per essere legato a una divinità malvagia. Considerando il pantheon di Golarion, **[[Lamashtu]]**, la Madre dei Mostri, potrebbe essere la divinità perfetta per quest'isola.

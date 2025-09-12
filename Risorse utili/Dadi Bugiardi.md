@@ -1,3 +1,7 @@
+---
+tags:
+  - Infogenerali
+---
 Il gioco dei "Dadi Bugiardi" (in inglese "Liar's Dice") è un gioco di bluff che può essere adattato a Dungeons & Dragons (D&D) come una forma di mini gioco sociale o attività tra i personaggi. Si basa sulla capacità di bluffare e di fare dichiarazioni sulle quantità di dadi, spesso senza avere un vero controllo su di essi.
 
 ### Obiettivo del Gioco:

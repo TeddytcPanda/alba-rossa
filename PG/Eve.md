@@ -1,3 +1,7 @@
+---
+tags:
+  - PG
+---
 # Eve Octopus II
 
 ## Informazioni di Base

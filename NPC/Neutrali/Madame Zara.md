@@ -1,3 +1,8 @@
+---
+tags:
+  - NPC
+  - mercante
+---
 - Vende *pozioni di sirenide* (fanno respirare sott'acqua) e *sabbie ipnotiche*.  
 - Ha un serpente marino addomesticato che le fa da guardia del corpo.  
 

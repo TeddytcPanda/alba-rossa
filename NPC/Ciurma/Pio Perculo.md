@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 # Pio Perculo
 
 ## Informazioni di Base
@@ -20,7 +24,7 @@
 - **Alleati**:
     - [[Muffa]] (madre?) 
     - [[Pente]] 
-    - [[Puggo-Yuka]] 
+    - [[Yuka]] 
     - [[Shar]]
 - **Nemici**: [[Aldrin]]
 - **Contatti**:

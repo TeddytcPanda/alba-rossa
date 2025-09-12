@@ -1,3 +1,7 @@
+---
+tags:
+  - PG
+---
 # Muffa
 
 ## Informazioni di Base

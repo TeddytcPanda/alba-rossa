@@ -1,3 +1,7 @@
+---
+tags:
+  - Infogenerali
+---
 
 ## ⚓ **Tabella Azioni Navali**
 

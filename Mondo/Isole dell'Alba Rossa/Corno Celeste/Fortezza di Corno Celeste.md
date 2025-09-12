@@ -1,3 +1,8 @@
+---
+tags:
+  - luogo
+  - dungeon
+---
 #luogo/isola 
 # **Fortezza di Corno Celeste**
 **Settlement Level:** 13  

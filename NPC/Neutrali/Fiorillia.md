@@ -1,3 +1,8 @@
+---
+tags:
+  - NPC
+  - sfondo
+---
 **Razza:** Fey (probabilmente una **Sparviera della Corte dei Fiori** o una **Pixie**, ma può sembrare un po’ più sbadata)
 
 **Classe:** Non ha una classe vera e propria, ma potrebbe avere alcune abilità innate legate alla magia fey (illusioni, incantesimi leggeri, ecc.)

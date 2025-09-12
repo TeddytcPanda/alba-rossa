@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 #NPC/alleato
 # Lady Mira Goodwin
 
