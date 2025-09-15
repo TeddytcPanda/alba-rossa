@@ -1,0 +1,2 @@
+
+Conosciuto da [[Pente]] come "Gino il Pinguino Paladino", a causa dell'influenza di [[Aldrin]], è diventato un Cavaliere della Morte. Il suo ruolo in questo arco è imbrogliare i rivoltosi e indebolire tramite la rivolta il regno per permettere l'assalto da parte di [[Porto del Tuono]].

@@ -13,6 +13,7 @@
 - **Origini**: Nata a [[Occhio di Triglia]], città nell'[[Impero di Lel'Kuzan]], ha sempre vissuto nei sobborghi in mezzo a navi arenate, povertà, fame e discriminazioni. è la più grande di 98 fratelli e cerca di prendersi cura di loro recuperando da mangiare come può. Generalmente prova a rubacchiare in giro e cerca di vendere "talismani" non ben funzionanti.
 - **Eventi Chiave**: Un giorno uno dei suoi tanti fratelli è stato accerchiato da delle guardie e lei, per salvarlo, ha inspiegabilmente richiamato il potere di una [[Fiamma Nera]]. Mentre rubacchiava in giro una vecchietta, [[Ambra Ombroscura]], ha riconosciuto il suo potere e l'ha presa come apprendista, insegnandole la magia druidica e ad accogliere questa [[Fiamma Nera]]. Un giorno però [[Ambra Ombroscura]] scompare nel nulla e Muffa riesce a capire che si è diretta nelle [[Isole dell'Alba Rossa]]. Dopo essere stata ritenuta colpevole per la scomparsa di [[Ambra Ombroscura]], figura prominente di [[Occhio di Triglia]], a causa di puro e semplice razzismo, scappa grazie all'aiuto di [[Orte]] e [[Luna]].  
 - **Obiettivi**: Ritrovare [[Ambra Ombroscura]]
+- [[Marea]] amica da piccola, figlia dell'oste dell'[[Ostrica ubriaca]]
 
 ## Combattimento
 - **Ruolo**: Curatore, Buffer
@@ -49,3 +50,4 @@
 	- [[Orte]] e [[Luna]] possono creare un legame emotivo forte
 	- considera [[Pio Perculo]] suo figlio 
 	- Cerca di mangiare i mostri (side quest da chef?)
+	- Far trovare un fratello

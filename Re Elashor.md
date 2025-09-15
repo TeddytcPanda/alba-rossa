@@ -1,0 +1,2 @@
+
+I membri della famiglia reale sono i custodi di [[Dvaros]] e si assicurano che non possa fuggire dalla dimensione tasca in cu è stato rinchiuso. Elashor è molto provato dai tanti anni di guardia, soprattutto da quando Eve è scappata e da quando la famiglia di [[Shar]] è stata uccisa e quindi quel lato della guardia non viene più completato.

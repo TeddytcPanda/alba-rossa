@@ -1,0 +1,1 @@
+Donna-razza, figlia del Duca della Musica [[Ellywick Arvannis]], che gestisce la magia, è in realtà interessata alla scherma anche come espressione artistica, facendola scontrare con il padre. Vuole usare uno spadone ma non è dotata nell'utilizzo di questo, mentre sarebbe molto brava a utilizzare uno stocco. 

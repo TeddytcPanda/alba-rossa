@@ -1,5 +1,3 @@
-# Gyoffard 
-
 ## Informazioni di Base
 - **Ruolo nella Storia**: Membro della Ciurma
 - **Razza**: Mezz'Orco

@@ -39,8 +39,9 @@ Si occupa dei rapporti con gli altri regni e in generale degli ***Affari Esteri*
 
 #### Musica - Ellywick Arvannis
 ***Magia***
+(Alanya Arvannis)
 
-#### Poesia
+#### Poesia - Eldor Midoros
 Occupa il ruolo di ***Primo Consigliere del Re***
 
 #### Danza
@@ -64,3 +65,5 @@ Il circolo esterno è composto da colline che viaggiano in una barriera corallin
 
 # Sessioni a Aqualungra
 [[1. Il Ritorno nelle Profondità]]
+[[2. Cori e assoli della canzone del popolo]]
+[[3. Elias il demone]]

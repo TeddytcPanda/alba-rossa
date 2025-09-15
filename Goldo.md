@@ -1,0 +1,1 @@
+**Aiutante** e taverniere della [[Taverna della Conchiglia Sfregiata]]. Fa parte della rivoluzione ed è stato lui a vendere le informazioni su [[Eve]]. Ha buone intenzioni e cerca soltanto di avere un futuro migliore per tutti. 

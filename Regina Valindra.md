@@ -1,0 +1,2 @@
+
+**Antagonista** che si occupa delle relazioni della corona con gli altri nobili. Sta organizzando il ballo a corte per la Festa delle Profondità. Al momento è incinta della seconda figlia, visto che Eve è scappata. 
