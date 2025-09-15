@@ -1,3 +1,7 @@
+---
+tags:
+  - Infogenerali
+---
 ## ⚓ **Tabella delle Sezioni della Nave – HP e CA per Livello Nave**
 
 |**Sezione**|**HP Totali**|**CA Base**|**Effetto Critico (a 0 HP)**|

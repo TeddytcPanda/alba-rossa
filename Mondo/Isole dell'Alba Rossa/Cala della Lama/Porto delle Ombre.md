@@ -1,3 +1,8 @@
+---
+tags:
+  - luogo
+  - quartiere
+---
 #luogo/città/quartiere 
 [[Cala della Lama]][[Baraonda]]
 ## **1. Il Porto delle Ombre**

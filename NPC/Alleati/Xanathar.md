@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 **Nome completo**: Xanathar (vero nome sconosciuto)  
 **Razza**: Beholder  
 **Ruolo**: Membro del Triumvirato di [[Baraonda]], signore delle informazioni e del terrore  

@@ -1,3 +1,8 @@
+---
+tags:
+  - luogo
+  - quartiere
+---
 #luogo/città/quartiere  [[Baraonda]][[Cala della Lama]]
 # **Il Quartiere dei Vizi**
 Il **Quartiere dei Vizi** è il cuore pulsante della depravazione e del divertimento a **[[Baraonda]]**, un luogo dove i pirati, i mercenari e gli avventurieri vengono per dimenticare i loro problemi (e spesso per trovarne di nuovi). Ecco una descrizione dettagliata di questa zona, con un focus particolare sul **bordello gestito da una succube** e sulle sue implicazioni oscure.

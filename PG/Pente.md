@@ -1,3 +1,7 @@
+---
+tags:
+  - PG
+---
 # Sir Pente Kakapoko 
 
 ## Informazioni di Base

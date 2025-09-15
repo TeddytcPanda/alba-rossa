@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 
 ## 🧱 **Capitan Rottame – Storia e Motivazioni**
 

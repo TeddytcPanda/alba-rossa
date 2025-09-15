@@ -1,3 +1,8 @@
+---
+tags:
+  - luogo
+  - isola
+---
 #luogo/isola 
 # **1. Forma e Geografia**
 L'isola di Rocca del Kraken è un luogo oscuro e temuto nell'Arcipelago dell'Alba Rossa. Situata nelle acque più profonde e turbolente, l'isola è avvolta in un'aura di mistero e pericolo, soprattutto per le leggende che narrano della presenza di un kraken che la infesta. Rocca del Kraken è un rifugio per pirati e fuorilegge, ma anche un luogo di antichi culti e misteri.

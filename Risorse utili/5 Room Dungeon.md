@@ -1,3 +1,7 @@
+---
+tags:
+  - Infogenerali
+---
 ## **Why Do I Like 5 Room Dungeons?**  
 This format, or creation method, has a number of advantages:
 

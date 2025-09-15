@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5cd646211dc7dc90",
+        "id": "811317fbfbc6580e",
         "type": "tabs",
         "children": [
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:appunti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 379.5
   },
   "right": {
     "id": "60d0c2537f6a3c4d",
@@ -317,8 +317,33 @@
     "Items/z_Images/photo_2025-07-29_17-09-56.jpg",
     "Items/z_Images/Pasted image 20250729174036.png",
     "Items/z_Images/Pasted image 20250729164905.png",
+    "Items/Anello della Nera Fiamma.md",
+    "Items/Pietra di Solom.md",
+    "Items/cards/pietra di solom.pdf",
+    "Items/z_Images/ChatGPT Image Aug 31, 2025, 10_03_02 AM.png",
     "Items/z_Images/battlemap___water_temple_first_circle_by_mizakiiarte_dhd7qce-fullview.jpg",
-    "Items/photo_2025-07-29_17-14-09.jpg",
+    "Items/z_Images/EQgZb6p.png",
+    "Items/z_Images/photo_2025-07-29_17-09-56.jpg",
+    "Items/z_Images/photo_2025-07-29_17-14-09.jpg",
+    "Items/cards/Spada della furia rinata.pdf",
+    "Items/Martello di Azlant.md",
+    "Items/Lancia ammazza-draghi.md",
+    "Items/Fasce del potere senz'armi (+1).md",
+    "Items/Armatura del Leviatano.md",
+    "Items/cards/Loreborne.pdf",
+    "Items/cards/Armatura del Leviatano.pdf",
+    "Items/cards/Lancia ammazza draghi.pdf",
+    "Items/cards/Amuleto dei giganti delle nuvole.pdf",
+    "Items/cards/Frusta Tentacolare.pdf",
+    "Items/cards/fasce del potere senz'armi.pdf",
+    "Items/cards",
+    "Mondo/Isole dell'Alba Rossa/Dvaronia/Dagania.md",
+    "PG/Yuka.md",
+    "Items/z_Images/ancient_air_talisman.png",
+    "NPC/Alleati/Ygrak.md",
+    "Untitled/Untitled.md",
+    "Untitled/Untitled 1.md",
+    "S2S.md",
     "Clippings",
     "Risorse utili/Combattimento Navale",
     "zz_Templates",

@@ -1,3 +1,8 @@
+---
+tags:
+  - luogo
+  - isola
+---
 #luogo/isola 
 # **Isola Rifugio del Vento**
 

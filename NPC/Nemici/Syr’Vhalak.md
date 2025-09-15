@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 # Dicerie
 - **La Caduta degli Eldrenn**  
     Si dice che la famiglia [[Eldrenn]], un tempo fiera e potente, fu distrutta dopo aver risvegliato Syr'Vhalak da un antico sonno. Il drago avrebbe rivendicato il castello come suo, maledicendo il nome della casata.

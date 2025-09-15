@@ -1,3 +1,7 @@
+---
+tags:
+  - Infogenerali
+---
 ### **📋 Struttura Base di un Turno Navale**
 
 Ogni turno è composto da:

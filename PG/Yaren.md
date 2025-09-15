@@ -1,3 +1,7 @@
+---
+tags:
+  - PG
+---
 # Yaren
 
 ## Informazioni di Base
@@ -31,7 +35,7 @@
 	- [[Shar]]:
 	- [[Pente]]:
 	- [[Muffa]]:
-	- [[Puggo-Yuka]]:
+	- [[Yuka]]:
 	- [[Eve]]: Amanti
 	- [[Axel]]:
 - **Alleati**:

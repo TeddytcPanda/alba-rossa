@@ -1,3 +1,8 @@
+---
+tags:
+  - luogo
+  - regione
+---
 # **Storia dell'Arcipelago dell'Alba Rossa**
 
 L'Arcipelago dell'Alba Rossa è un luogo remoto e selvaggio, un insieme di isole avvolte dal mistero e dalla furia degli elementi. Le sue acque sono instabili e pericolose, spesso sconvolte da tempeste improvvise e devastanti, e le sue terre sono coperte da fitte giungle, montagne inaccessibili e spiagge battute dai venti. Il nome "Alba Rossa" deriva dall'aspetto spettacolare del cielo al sorgere del sole, quando l'intero orizzonte si tinge di un rosso intenso, quasi sanguigno. Gli antichi raccontano che questo fenomeno è un segno della benedizione (o della maledizione) di [[Gozreh]], la divinità della natura e degli elementi, che regna sovrana su queste isole.

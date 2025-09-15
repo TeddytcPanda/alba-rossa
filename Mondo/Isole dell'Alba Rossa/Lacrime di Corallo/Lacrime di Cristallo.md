@@ -1,3 +1,8 @@
+---
+tags:
+  - luogo
+  - isola
+---
 #luogo/isola 
 # **Lacrime di Cristallo**
 

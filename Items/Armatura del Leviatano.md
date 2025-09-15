@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+  - armatura
 quest:
 ---
 # Immagine
@@ -8,14 +9,14 @@ quest:
 
 ---
 # Descrizione
-Armatura pesante (richiede sintonia da qualcuno senza il braccio sinistro)
+Armatura a Piastre (richiede sintonia da qualcuno senza il braccio sinistro)
 Forgiata a partire dalle scaglie di un Leviatano minore fratello di [[Levi]], chiunque indossa l'**Armatura del Leviatano** ottiene i seguenti benefici:
 - Resistenza all'acido
 - +1 CA
 - Può respirare sott'acqua e ha una velocità di nuotare di 9m
 Inoltre il braccio sinistro dell'armatura ha le seguenti proprietà:
-- The prosthetic is a fully capable part of your body.
-- The prosthetic is a magic melee weapon with which you're proficient. It deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the prosthetic detaches and flies at the target of the attack, then immediately returns to you and reattaches.
+- è un pezzo del proprio corpo a tutti gli effetti
+- è un'arma magica in cui si è addestrati. Fa 1d8 danni da forza e ha la proprietà da lancio (3m/9m). Quando lanciata vola fino a colpire e poi torna subito indietro e si riattacca.
 Se qualcuno che ha ancora il braccio sinistro prova a indossare l'armatura, prende 2d6 danni per turno finchè non la toglie, sentendosi affogare.
 
 ---
@@ -24,3 +25,4 @@ Armatura creata per [[Levi]] dal [[Progetto Nautilus]], utilizzando pezzi del Le
 Nel momento in cui Levi e Nemo hanno abbandonato il progetto Nautilus l'armatura è stata nascosta a [[Forte Ferro]]
 
 ---
+![[Armatura del Leviatano.pdf]]

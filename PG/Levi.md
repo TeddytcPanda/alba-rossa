@@ -3,6 +3,8 @@ aliases:
   - Levi
   - Leviatanna
   - Yverlian
+tags:
+  - PG
 ---
 
 # [[Progetto Nautilus]] numero 3- Leviatanna

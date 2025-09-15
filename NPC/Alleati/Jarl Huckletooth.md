@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 #NPC/alleato
 ### **Jarl Huckletooth: Il Compagno della Leggenda**
 

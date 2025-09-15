@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 # Yuramï, il Serpente Gentile
 
 ## Informazioni di Base

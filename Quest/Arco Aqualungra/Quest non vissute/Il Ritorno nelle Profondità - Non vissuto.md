@@ -1,3 +1,10 @@
+---
+tags:
+  - appunti
+  - sessione
+  - scarto
+  - Aqualungra
+---
 ## Incontro sociale: Il Duca della Scultura di Aqualungra
 
 ### Aspetto e Caratteristiche Fisiche

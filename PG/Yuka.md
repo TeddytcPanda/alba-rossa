@@ -1,3 +1,7 @@
+---
+tags:
+  - PG
+---
 # Puggo - Yuka Kintsugi
 
 ## Informazioni di Base

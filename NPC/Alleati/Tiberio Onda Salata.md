@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 ### **Il Chierico di Besmara: Tiberio Onda Salata**
 
 - **Ruolo nella Ciurma**: Consigliere spirituale e guaritore, Tiberio guida i rituali in onore di Besmara, dea dei pirati, e benedice la ciurma prima degli scontri.

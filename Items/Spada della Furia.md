@@ -1,3 +1,7 @@
+---
+tags:
+  - item
+---
 ### **Spada della Furia**
 
 _Tipo di oggetto:_ Arma (spada lunga), rara (maledetta)
@@ -18,3 +22,10 @@ _Tipo di oggetto:_ Arma (spada lunga), rara (maledetta)
 La **Spada Bastarda della Furia Senziente** fu forgiata su **Eberron**, durante la **Guerra delle Macchine**. Un potente artefice, in un tentativo di creare una spada che potesse dominare i campi di battaglia, incanalò l'essenza di un antico **demone** nelle sue lame. La spada divenne un **oggetto maledetto**, con la volontà del demone della guerra che le infuse una fame insaziabile di conflitto e violenza. La spada non solo infligge danni devastanti, ma la sua maledizione spinge chi la impugna a **perdere il controllo** durante il combattimento, attaccando chiunque si trovi nelle vicinanze, anche i propri compagni.
 
 Nel corso dei secoli, la spada è passata di mano in mano, seminando morte e distruzione, fino a essere dimenticata da molti. La sua leggenda è conosciuta tra i guerrieri e i collezionisti di artefatti, ma pochi sanno che è **forgiata con la magia di Eberron** e che chi la impugna rischia di diventare **schiavo della sua furia**.
+
+
+---
+# Spada della Furia Rinata
+Gli attacchi con questa spada hanno un bonus di +2 a tiri per colpire e ai danni.
+I bersagli viventi prendono 1d6 danni aggiuntivi dai colpi di quest'arma (costrutti, non morti ecc. sono immuni a questo effetto)
+Uccidere un bersaglio vivente permette di recuperare 10 Punti Ferita

@@ -1,13 +1,12 @@
 ---
 tags:
-  - D&D
   - NPC
 aliases:
   - Aldrin
 type: NPC
-race: 
-class: 
-alignment: 
+race:
+class:
+alignment:
 level:
 ---
 

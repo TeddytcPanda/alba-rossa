@@ -1,3 +1,7 @@
+---
+tags:
+  - NPC
+---
 ![[Sarumi Kitsugi.jpg|400]]
 
 Capitano dei pirati del Teschio d'Oro, ha deciso di fermarsi a [[Porto del Tuono]] per pareggiare i conti con [[Sullivan Usargu]], che era stato particolarmente violento durante la conquista di Kha'tha'nah (sua regione natale) da parte degli Orchi.
