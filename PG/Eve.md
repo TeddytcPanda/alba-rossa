@@ -2,7 +2,7 @@
 tags:
   - PG
 ---
-# Eve Octopus II
+# Talindra Evangeline Octopus
 
 ## Informazioni di Base
 - **Classe**: Artificere - Fabbro da Battaglia

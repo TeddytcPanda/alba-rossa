@@ -30,7 +30,7 @@ I duchi sono legati a 7 arti diverse: Architettura, Scultura, Pittura, Musica, P
 #### Architettura
 Gestisce tutto ciò che riguarda le ***infrastrutture*** del regno. Nonostante l'importante compito non è molto di rilievo fra gli altri poiché è tutto composto da tribù nomadi.
 
-#### Scultura - Erky Mishann
+#### Scultura - [[Erky Mishann]]
 Il suo compito è registrare tutto quello che accade, ricercare quello che è accaduto. Si occupa principalmente della ***Storia***
 (celdor mishann)
 

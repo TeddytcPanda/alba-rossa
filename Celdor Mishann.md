@@ -1,0 +1,1 @@
+Figlio di [[Erky Mishann]], è dipendente dalle scaglie e non gli si alza per questo motivo.

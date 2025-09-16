@@ -1,0 +1,2 @@
+Elfo alto e allenato. Utilizza lo stocco e lo associa alla musica. Era un avventuriero che ha viaggiato per il mondo e combattuto al fianco degli [[Azlanti]], era esperto di spionaggio, ma dopo aver assistito all'assedio di Nightmouth ha deciso di dedicarsi all'arte della spada.
+Ora è il maestro di scherma di [[Alanya Arvannis]].
